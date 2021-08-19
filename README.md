@@ -1,23 +1,21 @@
 
-## Nombre de proyecto
+## Utilización del nopal para combatir la malnutrición de niños y adolescentes en México
 
-Puede utilizar el [editor en GitHub](https://github.com/CdeCMx-org/templates_paginaweb/edit/main/README.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown. Siempre que guardes los cambios en este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown. Puedes escoger otro template en la siguiente página [repository settings](https://github.com/CdeCMx-org/templates_paginaweb/settings/pages). El tema de este template fue guardado en `_config.yml`.
+### Resumen
+En México la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información nutrimental, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, y la desigualdad social o marginación en determinados sectores del país, es por ello que a través de este artículo buscamos proponer un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal el cual es altamente nutritivo pues contiene aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
 
-El URL generado de tu página lo puedes encontrar en Settings -> Pages. 
+### Introduccion
 
-*Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
+•	Desnutrición, Sobrepeso y Obesidad en México
 
-### Introducción
+La desnutrición en México es un problema latente en zonas en las que habitan personas que se encuentran en situación de pobreza, de acuerdo a un ensayo realizado por alimentación para la salud “Las personas y los grupos con menor poder social, económico o político es a quienes se les dificulta el acceso físico, social y económico a suficientes alimentos inocuos y nutritivos, y son ellas quienes más sufren de hambre o malnutrición”, vivimos en un país desigual en el que los alimentos más saludables o beneficiosos para la salud se encuentran disponibles sólo para personas que tienen un poder social más elevado, en consecuencia, es más complicado que todos puedan acceder a dietas saludables llegando tan sólo a cubrir parte de su alimentación con comida barata que no aporta ningún tipo de contenido nutritivo para la salud, esta carencia en nutrientes afecta a miles de niños y adolescentes año con año, que como resultado padecen de retraso de crecimiento, bajo rendimiento escolar, anemia, entre otras.  Lo que nos recuerda lo necesidad de implementar nuevas medidas con las cuales logremos aprovechar ciertos alimentos en nuestro país, entre los que se encuentra el nopal, verdura que posee un precio muy económico por debajo de otras opciones en el mercado, y que por si fuera poco se encuentra entre las principales de desecho. De acuerdo a un estudio realizado por SEDESOL nos percatamos que a nivel nacional se desperdicia cerca del 63.3% de nopal que alcanzaría para alimentar a 0.87% de familias mexicanas al año, nuestra consiste en no sólo dar a conocer los beneficios de este alimento sino también de usarlo para combatir la malnutrición en nuestro país.
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+Por otra parte, el sobrepeso y la obesidad son problemas que lejos de disminuir aumentan con los años afectando a miles de mexicanos, es aquí en donde nos preguntamos ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, el problema es bastante complejo dado que incluye muchas variables entre ellas sociales y políticas, pero confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. 
+
 
 ### Métodología
 
-Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
+
 
 ### Resultados
 
@@ -44,8 +42,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
-
+* Jessica Hernandez 
+* Maritza Barrios Macias
+* Jose Macias Magdaleno
+* Perla Olivera Cortes
