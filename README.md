@@ -11,6 +11,7 @@
 - [Conclusiones](#conclusiones) 
 - [Video](#video) 
 - [Agradecimientos](#agradecimientos) 
+- [Equipo de trabajo](#equipo-de-trabajo) 
 
 # Introducción 
 
@@ -51,9 +52,13 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
 # Equipo de trabajo 
 
 💬 Maritza Barrios Macías
+
 💬 Jessica Sánchez Hernández
+
 💬 José Macías Magdaleno
+
 💬 Perla Genoveva Olivera Cortés
+
 💬 Brenda Teresa Farfán Peña
 
 
