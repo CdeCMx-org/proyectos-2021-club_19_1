@@ -8,8 +8,9 @@
 - [Objetivos de Desarrollo Sostenible 2030](#objetivos-de-desarrollo-sostenible-2030) 
 - [Metodología](#metodología) 
 - [Resultados](#resultados) 
-- [Conclusiones](#Conclusiones) 
+- [Conclusiones](#conclusiones) 
 - [Video](#video) 
+- [Agradecimientos](#agradecimientos) 
 
 # Introducción 
 
@@ -21,8 +22,29 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
 
 ![prickly-pear-1501307](https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg)
 
+*Modificar el tamaño de la imágen para que no se vea tan grande* 
+
+# Objetivos de Desarrollo Sostenible 2030 
 
 
+# Metodología 
+
+
+# Resultados 
+
+
+
+# Conclusiones
+
+
+
+# Video
+
+
+
+# Agradecimientos 
+
+<img src="<img src="http://i.imgur.com/pgXt52x.gif">">
 
 
 
