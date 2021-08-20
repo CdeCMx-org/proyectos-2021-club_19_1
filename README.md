@@ -195,8 +195,8 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
       </div>
 
       <div class="col-sm-2 m-sm-auto">
-        <img alt="image" class="img-fluid rounded-circle" src=![InShot_20210411_234335512](https://user-images.githubusercontent.com/88996378/130162840-d1f17097-0b26-4c1e-b631-3a1a8ea235aa.jpg)>
-
+         <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/2.jpg">
+        
         <h3><strong>Brenda Teresa Farfán Peña</strong></h3>
         <p><em>Estudiante</em></p>
       </div>
