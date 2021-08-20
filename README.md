@@ -11,7 +11,7 @@
 - [Conclusiones](#conclusiones) 
 - [Anexos](#anexos) 
 - [Video](#video) 
-- [Investigación documental](#investigación-documental) 
+- [Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación](#si-te-interesa-el-tema-y-quieres-aprender más,-aquí-puedes-encontrar-nuestra-investigación) 
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
 
@@ -69,7 +69,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 *Centrar*
 
-# Investigación documental
+# Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación
 
 
 
