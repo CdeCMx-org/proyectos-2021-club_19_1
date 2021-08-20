@@ -9,6 +9,7 @@
 - [Metodología](#metodología) 
 - [Resultados](#resultados) 
 - [Conclusiones](#conclusiones) 
+- [Anexos](#anexos) 
 - [Video](#video) 
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
@@ -55,6 +56,10 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 1. La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
 2. 
 
+# Anexos 
+
+![Ensalada de nopal](https://user-images.githubusercontent.com/88996378/130287505-a1d32cc6-cd50-4f3b-af7a-4006ef101b9f.gif)
+
 # Video
 
 ![logo de youtube](https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif)
@@ -80,4 +85,3 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 💬 Perla Genoveva Olivera Cortés
 
 💬 Brenda Teresa Farfán Peña
-
