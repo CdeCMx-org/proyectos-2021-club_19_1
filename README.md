@@ -19,3 +19,12 @@ Nuestra propuesta consiste en fomentar el consumo del nopal, pero también influ
 
 El nopal, es una verdura que contiene micronutrientes favorables para combatir la malnutrición y es potencialmente amigable con nuestro objetivo porque es barato y sencillo de cultivar. Así mismo se ha demostrado que ayuda a combatir la diabetes por sus altas cantidades de fibra. Mañana añado algo por aquí.
 
+<img src="http://i.imgur.com/pgXt52x.gif">
+
+
+
+
+
+
+
+
