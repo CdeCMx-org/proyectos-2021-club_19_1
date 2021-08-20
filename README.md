@@ -11,7 +11,7 @@
 - [Conclusiones](#conclusiones) 
 - [Anexos](#anexos) 
 - [Video](#video) 
-- [Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación](#si-te-interesa-el-tema-y-quieres-aprender más,-aquí-puedes-encontrar-nuestra-investigación) 
+- [Aprende más](#aprende-más) 
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
 
@@ -69,7 +69,9 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 *Centrar*
 
-# Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación
+# Aprende más 
+
+Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación
 
 
 # Agradecimientos 
