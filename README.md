@@ -24,7 +24,7 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
     <div class="row pb-3">
       <div class="col text-left">
         <h2>Objetivos de Desarrollo Sostenible 2030</h2>
-        <p class="lead">Los objetivos de desarrollo sostenible en los que participamos se presentan a continuación.</p>
+        <p>Los objetivos de desarrollo sostenible en los que participamos se presentan a continuación.</p>
       </div>
     </div>
 
