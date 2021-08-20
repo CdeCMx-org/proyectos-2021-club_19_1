@@ -126,3 +126,81 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
     </div>
   </div>
 </section>
+<section class="fdb-block">
+  <div class="container">
+    <div class="row">
+      <div class="col text-left">
+        <h2>Conclusiones</h2>
+
+        <p>Far far away, behind the word mountains, far from the countries <a href="https://www.froala.com">Vokalia</a> and <a href="https://www.froala.com">Consonantia</a>, there live the blind texts. Separated they live in Bookmarksgrove right at the coast
+          of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="fdb-block">
+  <div class="container align-items-center justify-content-center d-flex">
+    <div class="row align-items-center text-left">
+      <div class="col-12 col-sm-6">
+        <img alt="image" class="img-fluid" src="./imgs/draws/sync2.svg">
+      </div>
+
+      <div class="col-12 col-lg-5 ml-auto pt-5 pt-lg-0">
+        <h2>Video</h2>
+        <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+        <p class="mt-4"><a href="https://www.youtube.com" class="btn btn-secondary">Link</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="fdb-block team-3">
+  <div class="container">
+    <div class="row text-center justify-content-center">
+      <div class="col-8">
+        <h2>Conocenos</h2>
+      </div>
+    </div>
+
+    <div class="row-70"></div>
+
+    <div class="row text-center justify-content-center mb-5">
+      <div class="col-sm-2 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/1.jpg">
+
+        <h3><strong>Maritza Barrios Macías</strong></h3>
+        <p><em>Estudiante</em></p>
+      </div>
+
+      <div class="col-sm-2 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/7.jpg">
+
+        <h3><strong>Jessica Sánchez Hernández</strong></h3>
+        <p><em>Estudiante</em></p>
+      </div>
+
+      <div class="col-sm-2 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/8.jpg">
+
+        <h3><strong>José Macías Magdaleno</strong></h3>
+        <p><em>Estudiante</em></p>
+      </div>
+    </div>
+
+    <div class="row justify-content-center text-center">
+      <div class="col-sm-2 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/2.jpg">
+
+        <h3><strong>Perla Genoveva Olivera Cortés</strong></h3>
+        <p><em>Estudiante</em></p>
+      </div>
+
+      <div class="col-sm-2 m-sm-auto">
+        <img alt="image" class="img-fluid rounded-circle" src="./imgs/people/3.jpg">
+
+        <h3><strong>Brenda Teresa Farfán Peña</strong></h3>
+        <p><em>Estudiante</em></p>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>
