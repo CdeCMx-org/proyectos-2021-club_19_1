@@ -29,7 +29,6 @@ En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender s
 
 # Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
-
 # Metodología 
 
 En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar un mayor provecho a este alimento.
@@ -43,10 +42,9 @@ Lamentablemente, la malnutrición es un problema que afecta a muchos niños y ad
 
 Para contrarrestar estos resultados, pretendemos difundir la gran cantidad de beneficios del nopal al igual que su consumo tanto en zonas urbanas como rurales. A raíz de ello, proponemos que todos los desperdicios sean redirigidos a algún centro en donde puedan ser propiamente tratados y limpiados, y que más adelante servirán como alimento para quienes lo necesiten, especialmente a aquellos que presenten mayores dificultades económicas y no puedan acceder a una alimentación por los motivos anteriormente expuestos. Con lo anterior, se esperaría disminuir el porcentaje de malnutrición en la población mexicana. Además, mostramos distintas recetas que se podrían realizar con el nopal; de esta manera, los habitantes de las poblaciones urbanas incrementarían su venta y consumo, que a su vez nos ayudrá a disminuir los casos de malnutrición a nivel nacional.
 
-
 # Resultados 
 
-
+PENDIENTE 
 
 # Conclusiones
 
@@ -54,11 +52,8 @@ Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar l
 
 Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra: 
 
-La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
-
-
-
-
+1. La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
+2. 
 
 # Video
 
@@ -85,8 +80,4 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 💬 Perla Genoveva Olivera Cortés
 
 💬 Brenda Teresa Farfán Peña
-
-
-
-
 
