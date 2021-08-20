@@ -71,7 +71,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Aprende más 
 
-Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación
+Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación.
 
 
 # Agradecimientos 
