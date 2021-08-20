@@ -200,7 +200,6 @@ El nopal, es una verdura que contiene micronutrientes favorables para combatir l
         <h3><strong>Brenda Teresa Farfán Peña</strong></h3>
         <p><em>Estudiante</em></p>
       </div>
-      </div>
     </div>
   </div>
 </section>
