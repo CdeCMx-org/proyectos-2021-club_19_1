@@ -5,7 +5,7 @@
 
 # Contenido 
 - [Introducción](#introducción) 
-- [Objetivos de Desarrollo Sostenible 2030](#objetivos-de-desarrollo-sostenible-2030) 
+- [Objetivos de Desarrollo Sostenible 2030 en los que participamos](#objetivos-de-desarrollo-sostenible-2030-en-los-que-participamos) 
 - [Metodología](#metodología) 
 - [Resultados](#resultados) 
 - [Conclusiones](#conclusiones) 
@@ -19,16 +19,29 @@ La malnutrición es un problema paradójico que ha persistido en nuestro país d
 
 Nuestra propuesta consiste en fomentar el consumo del nopal, pero también influir en el entorno de las familias de los niños y los adolescentes 	que sufren de malnutrición por ende consideramos, es importante lograr que esto sectores tomen medidas urgentes para mejorar su salud. 
 
-El nopal, es una verdura que contiene micronutrientes favorables para combatir la malnutrición y es potencialmente amigable con nuestro objetivo porque es barato y sencillo de cultivar. Así mismo se ha demostrado que ayuda a combatir la diabetes por sus altas cantidades de fibra. Mañana añado algo por aquí.
+El nopal, es una verdura que contiene micronutrientes favorables para combatir la malnutrición y es potencialmente amigable con nuestro objetivo porque es barato y sencillo de cultivar. Así mismo se ha demostrado que ayuda a combatir la diabetes por sus altas cantidades de fibra. Mañana añado algo por aquí. 
 
 ![prickly-pear-1501307](https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg)
 
 *Modificar el tamaño de la imágen para que no se vea tan grande* 
 
-# Objetivos de Desarrollo Sostenible 2030 
+En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto.
+
+# Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
 
 # Metodología 
+
+En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar el mayor provecho a este alimento.
+
+Durante el proceso de investigación, nos percatamos de que el nopal es rico en fósforo, calcio y fibra, además de ayudar a prevenir diabetes, bajar el colesterol y proporcionar una alta concentración de nutrientes. Debido a lo anterior, una dieta a base de nopal podría resultar bastante beneficiosa para pacientes con desórdenes alimenticios, especialmente con obesidad o desnutrición, lo cual nos ayudaría a combatir la malnutrición en los niños y adolescentes de México.
+
+Lamentablemente, la malnutrición es un problema que afecta a los niños, niñas y adolescentes en México, ya que durante la niñez genera impactos negativos, entre ellos las tallas bajas y el desarrollo insuficiente del sistema inmunológico. Por otro lado, el sobrepeso y la obesidad favorecen la aparición de enfermedades como la diabetes, problemas circulatorios, del corazón o riñones, las cuales son repercusiones graves que afectan la calidad y esperanza de vida; según datos de la UNICEF:
+
+- **1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad.  Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial.
+- **1 de cada 8 niñas y niños menores de 5 años padece desnutrición crónica.** La desnutrición se presenta principalmente en los estados del sur de México, y suele ser mucho más común en las comunidades rurales que urbanas.
+
+Para contrarrestar estos resultados, pretendemos difundir la gran cantidad de beneficios del nopal y difundir su consumo tanto en zonas urbanas como rurales. A raíz de ello, proponemos que todos los desperdicios sean redirigidos a algún centro en donde puedan ser propiamente tratados y limpiados, los cuales puedan servir como alimento para quienes lo necesiten, especialmente a aquellos que presenten mayores dificultades económicas y no puedan acceder a una alimentación adecuada de manera tan sencilla. Con lo anterior, se esperaría disminuir el porcentaje de malnutrición en la población mexicana. Además, mostramos distintas recetas que se podrían realizar con el nopal; de esta manera, los habitantes de las poblaciones urbanas incrementarían su venta y consumo, que a su vez nos podría ayudar a desocupar los primeros lugares en sobrepeso y obesidad a nivel internacional.
 
 
 # Resultados 
