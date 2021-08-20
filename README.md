@@ -50,8 +50,13 @@ Para contrarrestar estos resultados, pretendemos difundir la gran cantidad de be
 
 # Conclusiones
 
-Al comenzar el proyecto nos dimos cuenta de que sería muy difícil poner en práctica cambiar la alimentación de millones de niños y adolescentes en México, porque no solo sería elaborar un cartel y ahí terminaría el problema tomas más que eso, necesitamos llevar a cada mesa de México una dieta sana y balanceada, los principales problemas son la accesibilidad a ciertos productos por eso nos quisimos enfocar en un producto del cual su desecho serviría para mínimo alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales ya que como pueden observar las personas con más malnutrición habitan en dichas zonas, los indígenas son más propensos a tener más malnutrición a temprana edad. 
-Políticas como las de etiquetado que podemos observar en productos con exceso de azucares y grasas saturadas, son las que tendríamos que poner en práctica para poder salir de las listas de obesidad o desnutrición en las cuales hemos permanecido como país durante mucho tiempo. 
+Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar la alimentación de millones de niños y adolescentes en México, porque el problema va más allá de sólo la elaboración algún manual sobre el buen comer, se necesita llevar a cada mesa de México una dieta sana y balanceada.
+
+Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra: 
+
+La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
+
+
 
 
 
