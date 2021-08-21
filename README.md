@@ -73,7 +73,7 @@
 <p align="justify"> Lamentablemente, la malnutrición es un problema que afecta a muchos niños y adolescentes en México, sin mencionar que es en estas etapas cuando se generán más impactos negativos, entre ellos las tallas bajas y el desarrollo insuficiente del sistema inmunológico. Por otro lado, el sobrepeso y la obesidad favorecen la aparición de enfermedades como la diabetes, problemas circulatorios del corazón y riñones, todas ellas  repercusiones graves que alteran la calidad y esperanza de vida; según datos de la UNICEF: </p>
 
 <p align="justify">- <b> 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad.</b> Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial. </p>
-<p align="justify">- **1 de cada 8 niñas y niños menores de 5 años padece desnutrición crónica.** La desnutrición se presenta principalmente en los estados del sur de México, y suele ser mucho más común en las comunidades rurales que urbanas. </p>
+<p align="justify">- <b> 1 de cada 8 niñas y niños menores de 5 años padece desnutrición crónica. </b> La desnutrición se presenta principalmente en los estados del sur de México, y suele ser mucho más común en las comunidades rurales que urbanas. </p>
 
 <p align="justify">Para contrarrestar estos resultados, pretendemos difundir la gran cantidad de beneficios del nopal al igual que su consumo tanto en zonas urbanas como rurales. A raíz de ello, proponemos que todos los desperdicios sean redirigidos a algún centro en donde puedan ser propiamente tratados y limpiados, y que más adelante servirán como alimento para quienes lo necesiten, especialmente a aquellos que presenten mayores dificultades económicas y no puedan acceder a una alimentación por los motivos anteriormente expuestos. Con lo anterior, se esperaría disminuir el porcentaje de malnutrición en la población mexicana. Además, mostramos distintas recetas que se podrían realizar con el nopal; de esta manera, los habitantes de las poblaciones urbanas incrementarían su venta y consumo, que a su vez nos ayudrá a disminuir los casos de malnutrición a nivel nacional. </p>
 
@@ -251,21 +251,17 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 
 # Resultados 
 
-<p align="justify"> Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
+<p align="justify"> Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. </p>
 
-De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox).  
+<p align="justify"> De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox). Igualmente, la expresión del gen precursor de proteína amiloide (App), el cual está relacionado a cambios inflamatorios en el cerebro y el tejido adiposo durante la obesidad y asociado con la resistencia a la insulina, se redujo considerablemente lo cual benefició las funciones cognitivas. </p>
 
-Igualmente, la expresión del gen precursor de proteína amiloide (App), el cual está relacionado a cambios inflamatorios en el cerebro y el tejido adiposo durante la obesidad y asociado con la resistencia a la insulina, se redujo considerablemente lo cual benefició las funciones cognitivas. 
+<p align="justify"> Adicionalmente, se redujo la expresión de los genes de la proteína de unión al elemento regulador de esterol 1 (Srebp-1), la sintasa de ácidos grasos (Fas) y la acetil CoA carboxilasa (ACC), los cuales están relacionados a la lipogénesis hepática. Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). </p>
 
-Adicionalmente, se redujo la expresión de los genes de la proteína de unión al elemento regulador de esterol 1 (Srebp-1), la sintasa de ácidos grasos (Fas) y la acetil CoA carboxilasa (ACC), los cuales están relacionados a la lipogénesis hepática. 
-
-Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). 
-
-De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  </p>
+<p align="justify"> De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp. </p>
 
 Los resultados obtenidos se reportan en la siguiente tabla: 
 
-|          Gen                                                  |           Proteina                                             |  Especie                      |  Código    |   Porcentaje de indentidad  |
+|          Gen                                                  |           Proteína                                             |  Especie                      |  Código    |   Porcentaje de indentidad  |í
 |:-------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------:|------------------------------------|-------------------------------------|
 | Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (Tnf)                                |   Mus musculus   Homo sapiens |    NP_038721.1   NP_000585.2        |               78.81%                | 
 | NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                         |   Mus musculus   Homo sapiens |    NP_757340.1   NP_008983.2        |               84.04%                |
