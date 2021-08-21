@@ -307,13 +307,4 @@ Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra i
 
 # Equipo de trabajo 
 
-💬 Maritza Barrios Macías
-
-💬 Jessica Sánchez Hernández
-
-💬 José Macías Magdaleno
-
-💬 Perla Genoveva Olivera Cortés
-
-💬 Brenda Teresa Farfán Peña
- 
+![Conócenos](https://user-images.githubusercontent.com/88996378/130337500-47327ff1-f8b6-4c52-af4a-0b90109f687b.gif)
