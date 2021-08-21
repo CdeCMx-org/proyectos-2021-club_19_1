@@ -1,8 +1,8 @@
 ✨💡📄 El Equipo 1 Club 19 presenta: 
 ===================
 ## Utilización del nopal para combatir la malnutrición de niños y adolescentes en México
-### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Magdaleno, Macías, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
-### Agradecemos el apoyo y el aprendizaje brindado por los instructores Dr. Manuel Méndez García y Dr. Rigoberto Rosas Luis en esta edición de Clubes de Ciencia México 
+#### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Magdaleno, Macías, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
+#### Agradecemos el apoyo y el aprendizaje brindado por los instructores Dr. Manuel Méndez García y Dr. Rigoberto Rosas Luis en esta edición de Clubes de Ciencia México 
 
 # Contenido 
 - [Resumen](#resumen)
@@ -22,13 +22,14 @@
 
 # Resumen 
 
-En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información nutrimental, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, y la desigualdad social o marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo al contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
+En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por
+contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
 
 ##### *Palabras clave: malnutrición; nopal; niños; adolescentes.
 
 # Abstract 
 
-In Mexico malnutrition affects thousands of children and adolescents, among the main reasons is the lack of nutritional information, limitations on access to healthy food, the family and school environment, and social inequality or marginalization in certain sectors of the country, which is why through this article we seek to propose a project in which these three problems can be addressed: malnutrition, overweight and obesity, by promoting the consumption of nopal which is highly nutritious because it contains essential amino acids, protein, fiber, calcium and few carbohydrates.
+In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.
 
 ##### *Key words: malnutrition; nopal; children; adolescents.
 
