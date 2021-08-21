@@ -422,62 +422,12 @@ Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra i
 
 # Equipo de trabajo 
 
-<section class="fdb-block team-1">
-  <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-8">
-        <h1>Our Team</h1>
-        <p class="lead">Far far away, behind the word mountains, far from the countries.</p>
-      </div>
-    </div>
+<p><a href="https://plataforma.clubesdeciencia.mx/media/filer_public/f6/52/f6524091-218c-4edd-85fd-a5d7bafe9d25/instastories_medicinas_disenadas_por_computadora_2.jpg"><img src="https://plataforma.clubesdeciencia.mx/media/filer_public/f6/52/f6524091-218c-4edd-85fd-a5d7bafe9d25/instastories_medicinas_disenadas_por_computadora_2.jpg" alt="" width="173" height="308"/></a>&nbsp;&nbsp;<a href="https://plataforma.clubesdeciencia.mx/media/filer_public/27/fe/27fe1812-fb9b-4803-aa46-1068c8db38a6/webinar_31_marzo_instastories.jpg"><img src="https://plataforma.clubesdeciencia.mx/media/filer_public/27/fe/27fe1812-fb9b-4803-aa46-1068c8db38a6/webinar_31_marzo_instastories.jpg" alt="" width="173" height="308"/></a>&nbsp;<a href="https://plataforma.clubesdeciencia.mx/media/filer_public/21/b5/21b55f25-f002-4852-8fdb-e2890df3834b/webinar_07_abril_instastories.jpg"><img src="https://plataforma.clubesdeciencia.mx/media/filer_public/21/b5/21b55f25-f002-4852-8fdb-e2890df3834b/webinar_07_abril_instastories.jpg" alt="" width="173" height="308"/></a></p>
+<p style="margin: 0px; font-weight: normal; font-stretch: normal; line-height: normal; font-family: 'Helvetica Neue'; text-align: center;">&nbsp;</p>
+<p style="margin: 0px; font-weight: normal; font-stretch: normal; line-height: normal; font-family: 'Helvetica Neue'; text-align: center;">&nbsp;</p>
+<p style="margin: 0px; font-weight: normal; font-stretch: normal; line-height: normal; font-family: 'Helvetica Neue';">&nbsp;</p>
+<p style="margin: 0px; font-weight: normal; font-stretch: normal; line-height: normal; font-family: 'Helvetica Neue'; text-align: justify;">&nbsp;</p>
 
-    <div class="row-50"></div>
-
-    <div class="row">
-      <div class="col-sm-3 text-left">
-        <div class="fdb-box p-0">
-          <img alt="image" class="img-fluid rounded-0" src="./imgs/people/1.jpg">
-
-          <div class="content p-3">
-            <h3><strong>Sara Doe</strong></h3>
-            <p>Founder</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-3 text-left">
-        <div class="fdb-box p-0">
-          <img alt="image" class="img-fluid rounded-0" src="./imgs/people/2.jpg">
-
-          <div class="content p-3">
-            <h3><strong>Sara Doe</strong></h3>
-            <p>Founder</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-3 text-left">
-        <div class="fdb-box p-0">
-          <img alt="image" class="img-fluid rounded-0" src="./imgs/people/3.jpg">
-
-          <div class="content p-3">
-            <h3><strong>Sara Doe</strong></h3>
-            <p>Founder</p>
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-3 text-left">
-        <div class="fdb-box p-0">
-          <img alt="image" class="img-fluid rounded-0" src="./imgs/people/6.jpg">
-
-          <div class="content p-3">
-            <h3><strong>Sara Doe</strong></h3>
-            <p>Founder</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
 
 
 💬 Maritza Barrios Macías
