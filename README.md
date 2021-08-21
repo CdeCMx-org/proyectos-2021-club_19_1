@@ -31,6 +31,12 @@ En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender s
 
 # Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
+
+
+
+
+https://user-images.githubusercontent.com/88996378/130311075-f1ebb6ce-e284-413e-bff1-0b31b62b2186.mp4
+
 # Metodología 
 
 En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar un mayor provecho a este alimento.
