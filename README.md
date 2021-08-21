@@ -369,10 +369,16 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 </tbody>
 </table>
 
+**Tabla 5. Polifenoles presentes en el nopal*
 
-# Resultados 
+## 4. Importancia ambiental y económica 
 
-PENDIENTE 
+Del punto de vista ambiental las especies de nopal son elementos en la flora mexicana natural, especialmente en los desiertos de Chihuahua y en el norte tienen la mayor diversidad de especies y las poblaciones de nopal cubren una superficie de millones de hectáreas. Además, los nopales son el grupo de plantas más importante para mantener un equilibrio ecológico en extensiones del territorio mexicano. ayudan a la regeneración y estabilidad del suelo y son la principal defensa para que el campo no se convierta en un desierto. también son un alimento básico para muchas especies de mamíferos, y sirven para hogar y refugio a muchos insectos y clases de aves. No perdamos de vista que estas consecuencias podrían ser muy graves para nosotros.
+
+Desde el punto económico, las especies de nopal son un recurso muy importante por su forma de producto alimenticio. muchos miles de empleos son generados por el cultivo variado de especies de nopal. La producción como verdura se lleva a cabo en la mayoría de los estados del país y ocupa miles de hectáreas en cultivo y productores; la producción como fruta con variedades se encuentra en otros estados del país y utiliza miles de hectáreas de cultivo y miles de productores. la producción y las exportaciones asciende a millones de dólares anuales. 
+
+El nopal es uno de los recursos con más importancia económica en la flora mexicana. Actualmente, por sus varias propiedades nutritivas, químicas, industriales, ecológicas, medicinales y simbólicas, entre otras, el nopal es uno de los recursos vegetales más importantes para los habitantes de las zonas áridas y semiáridas.
+Las tres estructuras principales de los nopales para el consumo humano son: el cladodio, la tuna y el xoconostle. Los cladodios o mejor conocidos como pencas, son tallos gruesos y cerosa que evita la evapotranspiración. La tuna es el fruto turgente, el xoconostle o tuna ácida, posee una cascara sagrada gruesa y pulpa muy escasa.
 
 # Conclusiones
 
@@ -381,7 +387,8 @@ Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar l
 Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra: 
 
 1. La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
-2. 
+
+Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos. 
 
 # Anexos 
 
@@ -397,11 +404,6 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
 
 *Centrar*
-
-# Aprende más 
-
-Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación.
-
 
 # Agradecimientos 
   
