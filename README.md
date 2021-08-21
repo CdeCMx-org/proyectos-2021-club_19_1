@@ -1,7 +1,7 @@
 ✨💡📄 El Equipo 1 Club 19 presenta: 
 ===================
 ## Utilización del nopal para combatir la malnutrición de niños y adolescentes en México
-#### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Macías, Magdaleno, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
+#### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Magdaleno, Macías, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
 #### Agradecemos el apoyo y el aprendizaje brindado por los instructores Dr. Manuel Méndez García y Dr. Rigoberto Rosas Luis en esta edición de Clubes de Ciencia México 
 
 # Contenido 
@@ -227,7 +227,157 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Compuesto</th>
+    <th class="tg-c3ow">Contenido en 100 gr de nopal</th>
+    <th class="tg-c3ow">Efecto farmacológico</th>
+    <th class="tg-0pky">Referencias</th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">*Ácidos fenólicos</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido gálico</td>
+    <td class="tg-0pky">0.64–2.37</td>
+    <td class="tg-0pky">Antioxidante, antiinflamatorio y antitumoral</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido cumarico</td>
+    <td class="tg-0pky">14.08–16.18</td>
+    <td class="tg-0pky">Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016.</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">3,4-dihidroxibenzoico</td>
+    <td class="tg-0pky">0.06–5.02</td>
+    <td class="tg-0pky">Antiinflamatorio y antihiperglucémico</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">4-hidroxibenzoico</td>
+    <td class="tg-0pky">0.5–4.72</td>
+    <td class="tg-0pky">Antimicrobiano</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Choulis, 2014</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido ferúlico</td>
+    <td class="tg-0pky">0.56–34.77</td>
+    <td class="tg-0pky">Protege la piel de los rayos UV</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Islam et al., 2014</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido salicílico</td>
+    <td class="tg-0pky">0.58–3.54</td>
+    <td class="tg-0pky">Antiinflamatorio y exfolia la piel</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Jacques &amp; Dancer, 2020</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido siríngico</td>
+    <td class="tg-0pky">0.77-2.43</td>
+    <td class="tg-0pky">Previene la diabetes, cáncer y enfermedades cardiovasculares</td>
+    <td class="tg-0pky">Aruwa et al., 2018; Srinivasulu et al., 2018 ;López-Palacios &amp; Peña-Valdivia, 2020</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ácido protocatechico</td>
+    <td class="tg-0pky">0.71-1.26</td>
+    <td class="tg-0pky">Previene la diabetes, cáncer ulceras y esclerosis</td>
+    <td class="tg-0pky">Aruwa et al., 2018; Kakkar &amp; Bais, 2014 ; Kolniak-Ostek et al., 2020</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">*Flavonoides</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Isoquercetina</td>
+    <td class="tg-0pky">2.29–39.67</td>
+    <td class="tg-0pky">Neuroprotector y cardioprotector</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Appleton , 2010</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Isorhamnetina-3-O-glucósido</td>
+    <td class="tg-0pky">4.59–32.21</td>
+    <td class="tg-0pky">Anticancerígeno, antitumoral y cardioprotector</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Nicotiflorina</td>
+    <td class="tg-0pky">2.89–146.5</td>
+    <td class="tg-0pky">Antinflamatorio, neuroprotector, antibacterial, antiviral y analgésico</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Yu et al., 2021</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Rutina</td>
+    <td class="tg-0pky">2.36–26.17</td>
+    <td class="tg-0pky">Anticancerígeno, neuroprotector y cardioprotector</td>
+    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Quercetina</td>
+    <td class="tg-0pky">4.32-9.05</td>
+    <td class="tg-0pky">Controla azúcar en la sangre, cardioprotector</td>
+    <td class="tg-0pky">Aruwa et al., 2018; Sissons, 2019; Kuti, 2004</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Kaempferol</td>
+    <td class="tg-0pky">0.11-0.38</td>
+    <td class="tg-0pky">Anticancerígeno</td>
+    <td class="tg-0pky">Aruwa et al., 2018; Chen &amp; Chen, 2013;Kuti, 2004</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 
 # Resultados 
