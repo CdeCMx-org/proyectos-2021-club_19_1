@@ -35,7 +35,7 @@ En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender s
 
 
 
-https://user-images.githubusercontent.com/88996378/130311075-f1ebb6ce-e284-413e-bff1-0b31b62b2186.mp4
+![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif)
 
 # Metodología 
 
@@ -65,7 +65,7 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 
 # Anexos 
 
-https://user-images.githubusercontent.com/88996378/130311097-ee4ed3af-8efd-4dc3-8054-1ca3c2ae9589.mp4
+![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
 ### Información nutrimental del nopal
 
