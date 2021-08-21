@@ -140,7 +140,7 @@ Veamos algunos de los beneficios del nopal. </p>
 
 ## Información nutrimental del nopal
 
-A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical
+A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical (2021):
 
 | Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
 |------------------------------|-------|------------------------------|
@@ -227,7 +227,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
-|          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |                      Referecnias                                                       |  
+|          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |                      Referencias                                                       |  
 |:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
 |   Ácidos fenólicos          |                              |                                                                               |                                                                                       | 
 | Ácido gálico                | 0.64–2.37                    | Antioxidante, antiinflamatorio y antitumoral                                  | El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019                 |
@@ -251,7 +251,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 
 # Resultados 
 
-Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
+<p align="justify"> Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
 
 De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox).  
 
@@ -261,7 +261,7 @@ Adicionalmente, se redujo la expresión de los genes de la proteína de unión a
 
 Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). 
 
-De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  
+De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  </p>
 
 Los resultados obtenidos se reportan en la siguiente tabla: 
 
@@ -275,15 +275,15 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 **Tabla 5. Porcentaje de identidad entre genes del raton y el humano*
 
 
-Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. 
+<p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
 
 # Conclusiones
 
-<p align="justify"> Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar la alimentación de millones de niños y adolescentes en México, porque el problema va más allá de sólo la elaboración algún manual sobre el buen comer, se necesita llevar a cada mesa de México una dieta sana y balanceada.
+<p align="justify"> Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar la alimentación de millones de niños y adolescentes en México, porque el problema va más allá de sólo la elaboración algún manual sobre el buen comer, se necesita llevar a cada mesa de México una dieta sana y balanceada. </p>
 
-Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra, la accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
+<p align="justify"> Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra, la accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. </p>
 
-Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos.  </p>
+<p align="justify"> Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos.  </p>
 
 # Anexos 
 
