@@ -22,8 +22,7 @@
 
 # Resumen 
 
-En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por
-contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
+<p align="justify"> En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos. </p>
 
 ##### *Palabras clave: malnutrición; nopal; niños; adolescentes.
 
