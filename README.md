@@ -385,30 +385,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 </tbody>
 </table>
 
-
-# Resultados 
-
-Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
-
-De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox).  
-
-Igualmente, la expresión del gen precursor de proteína amiloide (App), el cual está relacionado a cambios inflamatorios en el cerebro y el tejido adiposo durante la obesidad y asociado con la resistencia a la insulina, se redujo considerablemente lo cual benefició las funciones cognitivas. 
-
-Adicionalmente, se redujo la expresión de los genes de la proteína de unión al elemento regulador de esterol 1 (Srebp-1), la sintasa de ácidos grasos (Fas) y la acetil CoA carboxilasa (ACC), los cuales están relacionados a la lipogénesis hepática. 
-
-Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). 
-
-De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  
-
-Los resultados obtenidos se reportan en la siguiente tabla: 
-
-|          Gen                                                  |           Proteina           |  Especie                              |  Código    |   Porcentaje de indentidad  |
-|:-------------------------------------------------------------:|:----------------------------:|:-------------------------------------:|------------|-----------------------------|
-| Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (  |                                       |            |                             | 
-| NADPH oxidasa 1 (Nox1)                                        | 5.01                         |                                       |            |                             |
-| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| 3.13                         |                                       |            |                             |
-| Receptor de muerte de la superficie celular Fas (Fas)         | 4.38                         |                                       |            |                             |
-
+**Tabla 5. Polifenoles presentes en el nopal*
 
 # Conclusiones
 
