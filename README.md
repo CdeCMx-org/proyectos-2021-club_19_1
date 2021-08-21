@@ -56,10 +56,10 @@
 
 # Objetivos 
 
-## Objetivo General
+### Objetivo General
 1.	Promocionar el consumo del nopal como un alimento de origen natural que ayuda a disminuir problemas de sobrepeso, obesidad y desnutrición en México.
 
-## Objetivos Particulares
+### Objetivos Particulares
 1.	Incentivar el consumo del nopal por medio de la difusión de los componentes y beneficios tanto nutricionales como económicos de estos últimos.
 2.	Estudiar el panorama general del sobrepeso, la obesidad y la desnutrición en México, especialmente por medio de datos estadísticos.
 3.	Informar sobre el proyecto que pretende reducir el porcentaje de desperdicio del nopal y la manera en que lo lleva a cabo, así como sugerir mejoras para aumentar su impacto nacional.
