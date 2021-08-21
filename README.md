@@ -29,7 +29,7 @@ contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos
 
 # Abstract 
 
-In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.
+ <p align="justify"> In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.<p>
 
 ##### *Key words: malnutrition; nopal; children; adolescents.
 
