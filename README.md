@@ -387,6 +387,8 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
+![beneficios_pages-to-jpg-0001](https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg)
+
 
 # Video
 
