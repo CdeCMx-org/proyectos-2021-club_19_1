@@ -120,7 +120,7 @@ A pesar de que en los últimos 20 años en México se ha observado una disminuci
 
 ![siiii](https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png)
 
-### 3.	Componentes y beneficios del nopal
+## 3.	Componentes y beneficios del nopal
 
 El nopal es un alimento que forma parte de la cultura mexicana, tanto así que incluso está presente en la bandera nacional, y por si fuera poco fue un recurso básico en etapas precolombinas entre tribus nómadas y sedentarias. 
 El nopal es una planta árida/semiárida perteneciente a la familia de las cactáceas que está ampliamente distribuida en todo México. Existen entre 60-90 especies presentes en el país, siendo el centro y norte del Altiplano, el noroeste, el Bajío, el Eje Neo volcánico y el valle de Tehuacán-Cuscatlán las regiones que albergan una mayor diversidad (Conabio, 2021). En la República Mexicana principalmente en los estados de: México, Hidalgo, Morelos y Puebla. 
@@ -129,12 +129,49 @@ El nopal ofrece muchos beneficios para todos los organismos vivos por su alta co
 Su contenido en fibra cruda está en un 12-18% de peso seco, propiedad que ha permitido posicionarse como una buena fuente de fibra dietética. Es bien conocida la relación que existe entre el consumo de fibra y el control de los niveles de colesterol y la prevención de enfermedades como la obesidad y la diabetes. El nopal deshidratado en polvo es una buena fuente de fibra dietética, tanto soluble como insoluble. En contraste, la fibra insoluble está compuesta de celulosa, lignina y una diminuta fracción de la hemicelulosa.
 Una dieta a base de nopal podría resultar bastante buena para los pacientes con obesidad o mala nutrición, ya que mejora el sistema inmune, el cerebro gastrointestinal y además reduce la obesidad y evita el aumento de la glucosa en sangre. Algunos de los problemas que pueden ser revertidos por el consumo del nopal son los que llegan a presentar individuos que llevan una dieta rica en carbohidratos y lípidos, asimismo los componentes del nopal reestablecen el equilibrio de la flora intestinal, por lo que disminuyen el estrés oxidativo, la intolerancia a la glucosa, mejoran el metabolismo y disminuyen el daño cognoscitivo provocado por el estrés oxidativo.
 Veamos algunos de los beneficios del nopal.
-          -	Contrarrestar el azúcar en la sangre, gracias a su alto contenido en fibra
-          -	Un antioxidante, el cual, se encuentra en la pulpa incolora del nopal que combate a los radicales libres, responsables del envejecimiento prematuro
-          -	Proceso digestivo, ya que su alto contenido en fibra y minerales actúan como desinflamatorios, motivo por el cual es altamente recomendado cuando se inicia una dieta.
-          -	Prevención del cáncer, la fibra y vitamina B3 que contiene ayuda a contrarrestar el colesterol, lo que ayuda a diluir la concentración de potenciales células        cancerígenas y de cierto modo a disminuirlas
-          -	Osteoporosis, gracias a investigaciones realizadas por la UNAM, UAQ y UVM se encontró que la harina de nopal ayuda a reducir la osteoporosis en mujeres, ya que se descubrió que entre más madura y grande sea la penca del nopal, más calcio contiene 
-          -	Gastritis controlada, sus fibras vegetales neutralizan el ácido gástrico que el cuerpo produce y protegen la mucosa del estómago. 
+
+ 1. Contrarrestar el azúcar en la sangre, gracias a su alto contenido en fibra.
+ 2. Un antioxidante, el cual, se encuentra en la pulpa incolora del nopal que combate a los radicales libres, responsables del envejecimiento prematuro.
+ 3. Proceso digestivo, ya que su alto contenido en fibra y minerales actúan como desinflamatorios, motivo por el cual es altamente recomendado cuando se inicia una dieta.
+ 4. Prevención del cáncer, la fibra y vitamina B3 que contiene ayuda a contrarrestar el colesterol, lo que ayuda a diluir la concentración de potenciales células        cancerígenas y de cierto modo a disminuirlas.
+ 5. Osteoporosis, gracias a investigaciones realizadas por la UNAM, UAQ y UVM se encontró que la harina de nopal ayuda a reducir la osteoporosis en mujeres, ya que se descubrió que entre más madura y grande sea la penca del nopal, más calcio contiene.
+ 6. Gastritis controlada, sus fibras vegetales neutralizan el ácido gástrico que el cuerpo produce y protegen la mucosa del estómago. 
+
+## Información nutrimental del nopal
+
+### A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical
+
+| Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
+|------------------------------|-------|------------------------------|
+| Agua                         | 93.93 |                              |   
+| Calorías                     | 16    |                              |   
+| Proteínas                    | 3.39  |                              |   
+| Carbohidratos                | 1.28  |                              |   
+| Grasas                       | 0.12  |                              |   
+| Fibra                        | 2.3   |                              |
+
+**Tabla 1. Información nutrimental del nopal**
+
+## Vitaminas
+
+Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por cada 100g de nopal.
+
+|  Compuesto  | Contenido en 100 gr de nopal |       Referencias        |
+|:-----------:|:----------------------------:|:------------------------:|
+| Vitamina C  | 7–22                         | El-Mostafa et al., 2014. |   
+| Vitamina B1 | 0.14                         | El-Mostafa et al., 2014. |   
+| Vitamina B2 | 0.60                         | El-Mostafa et al., 2014. |   
+| Vitamina B3 | 0.46                         | El-Mostafa et al., 2014. |   
+| Vitamina B6 | 0.07                         | Botanical, 2021          |   
+| Vitamina B9 | 1.75                         | FOODB, s.f.              |   
+| Vitamina K1 | 5.3                          | FOODB, s.f.              |   
+
+**Tabla 2. Vitaminas presentes en el nopal**
+
+## Minerales 
+
+
+
 
 
 # Resultados 
@@ -154,18 +191,6 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
-### Información nutrimental del nopal
-
-| Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
-|------------------------------|-------|------------------------------|
-| Agua                         | 93.93 |                              |   
-| Calorías                     | 16    |                              |   
-| Proteínas                    | 3.39  |                              |   
-| Carbohidratos                | 1.28  |                              |   
-| Grasas                       | 0.12  |                              |   
-| Fibra                        | 2.3   |                              |
-
-**Tabla 1. Información nutrimental del nopal**
 
 # Video
 
