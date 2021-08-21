@@ -65,7 +65,7 @@ Entre los principales problemas que dificultan el consumo de dietas más saudabl
 
 # Anexos 
 
-https://user-images.githubusercontent.com/88996378/130288018-cc0ea4af-fec3-4f2d-820c-27a5296dcfdd.mp4
+https://user-images.githubusercontent.com/88996378/130311097-ee4ed3af-8efd-4dc3-8054-1ca3c2ae9589.mp4
 
 ### Información nutrimental del nopal
 
