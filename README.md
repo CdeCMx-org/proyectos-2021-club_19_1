@@ -63,14 +63,14 @@ https://user-images.githubusercontent.com/88996378/130288018-cc0ea4af-fec3-4f2d-
 
 ### Información nutrimental del nopal
 
-| Contenido en 100 gr de nopal |       |   
-|------------------------------|-------|
-| Agua                         | 93.93 |   
-| Calorías                     | 16    |  
-| Proteínas                    | 3.39  |  
-| Carbohidratos                | 1.28  |  
-| Grasas                       | 0.12  | 
-| Fibra                        | 2.3   |   
+| Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
+|------------------------------|-------|------------------------------|
+| Agua                         | 93.93 |                              |   
+| Calorías                     | 16    |                              |   
+| Proteínas                    | 3.39  |                              |   
+| Carbohidratos                | 1.28  |                              |   
+| Grasas                       | 0.12  |                              |   
+| Fibra                        | 2.3   |                              |
 
 **Tabla 1. Información nutrimental del nopal**
 
