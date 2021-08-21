@@ -69,7 +69,7 @@
 
 <p align="justify"> En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar un mayor provecho a este alimento.</p>
 
-Durante el proceso de investigación, nos percatamos de que el nopal es rico en fósforo, calcio y fibra, además de ayudar a prevenir diabetes, bajar el colesterol y proporcionar una alta concentración de nutrientes. Por lo anterior, una dieta a base de nopal podría resultar muy beneficiosa para pacientes con desórdenes alimenticios, especialmente con aquellos que padezcan de sobrepeso, obesidad y desnutrición.
+<p align="justify">  Durante el proceso de investigación, nos percatamos de que el nopal es rico en fósforo, calcio y fibra, además de ayudar a prevenir diabetes, bajar el colesterol y proporcionar una alta concentración de nutrientes. Por lo anterior, una dieta a base de nopal podría resultar muy beneficiosa para pacientes con desórdenes alimenticios, especialmente con aquellos que padezcan de sobrepeso, obesidad y desnutrición.</p>
 
 Lamentablemente, la malnutrición es un problema que afecta a muchos niños y adolescentes en México, sin mencionar que es en estas etapas cuando se generán más impactos negativos, entre ellos las tallas bajas y el desarrollo insuficiente del sistema inmunológico. Por otro lado, el sobrepeso y la obesidad favorecen la aparición de enfermedades como la diabetes, problemas circulatorios del corazón y riñones, todas ellas  repercusiones graves que alteran la calidad y esperanza de vida; según datos de la UNICEF:
 
