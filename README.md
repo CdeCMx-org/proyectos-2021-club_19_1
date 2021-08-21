@@ -22,30 +22,30 @@
 
 # Resumen 
 
-<p align="justify"> En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos. </p>
+En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por
+contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
 
-#### *Palabras clave: malnutrición; nopal; niños; adolescentes.
+##### *Palabras clave: malnutrición; nopal; niños; adolescentes.
 
 # Abstract 
 
-<p align="justify"> In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.</p>
+In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.
 
-#### *Key words: malnutrition; nopal; children; adolescents.
+##### *Key words: malnutrition; nopal; children; adolescents.
 
 # Introducción 
 
-<p align="justify"> La malnutrición es un problema paradójico que ha persistido en nuestro país desde hace muchos años, por un lado, hay un sector que sufre de hambre, predominantemente población indígena en los estados del sur, y por otro un sector que padece de sobrepeso y obesidad el cual sostiene dietas con pocos aportes calóricos y sí muchos contenidos altos en sodio, grasas saturadas, grasas trans, azúcares, edulcorantes, etc. La población mexicana es consciente del problema, pero hasta la actualidad en pleno 2021 se han visto resultados desalentadores para los objetivos de la agenda 2030. Es una problemática que requiere de atención política y social pero también demanda propuestas en el ámbito de salud. De acuerdo al Instituto Nacional de Salud Pública 35.6% de niños entre los 5 a 11 años padecen de sobrepeso en un 18.1% y de obesidad en un 17.5%, en cuanto a adolescentes se encontró que de un total de 38.4% entre las edades de 12 a 19 años un 23.8% padecen de sobrepeso y un 14.6% de obesidad. </p>
+La malnutrición es un problema paradójico que ha persistido en nuestro país desde hace muchos años, por un lado, hay un sector que sufre de hambre, predominantemente población indígena en los estados del sur, y por otro un sector que padece de sobrepeso y obesidad el cual sostiene dietas con pocos aportes calóricos y sí muchos contenidos altos en sodio, grasas saturadas, grasas trans, azúcares, edulcorantes, etc. La población mexicana es consciente del problema, pero hasta la actualidad en pleno 2021 se han visto resultados desalentadores para los objetivos de la agenda 2030. Es una problemática que requiere de atención política y social pero también demanda propuestas en el ámbito de salud. De acuerdo al Instituto Nacional de Salud Pública 35.6% de niños entre los 5 a 11 años padecen de sobrepeso en un 18.1% y de obesidad en un 17.5%, en cuanto a adolescentes se encontró que de un total de 38.4% entre las edades de 12 a 19 años un 23.8% padecen de sobrepeso y un 14.6% de obesidad. 
 
-<p align="justify"> La desnutrición es un problema latente en zonas en las que habitan personas que se encuentran en situación de pobreza, de acuerdo a un ensayo realizado por Alimentación para la salud “las personas y los grupos con menor poder social, económico o político es a quienes se les dificulta el acceso físico, social y económico a suficientes alimentos inocuos y nutritivos, y son ellas quienes más sufren de hambre o malnutrición” (2020), vivimos en un país con altos niveles de desigualdad, en el que los alimentos más saludables o beneficiosos para la salud se encuentran disponibles sólo para aquellos que tienen un poder social alto; en consecuencia, es más complicado que todos puedan acceder a dietas saludables. Desafortunadamente, solamente llegan a cubrir parte de su alimentación con comida barata que no aporta ningún tipo de contenido nutritivo para la salud, esta carencia en nutrientes afecta a miles de niños y adolescentes año con año, que como resultado padecen de retraso de crecimiento, bajo rendimiento escolar, anemia, entre otras consecuencias negativas que dificultan su desarrollo. Lo previamente mencionado nos remarca lo necesidad de implementar nuevas medidas con las cuales logremos aprovechar en mayor medida los alimentos en nuestro país, entre los que se encuentra el nopal, verdura que posee un precio económico y accesible, muy por debajo de otras opciones en el mercado, y que, por si fuera poco, se encuentra entre las principales de desecho. De acuerdo a un estudio realizado por SEDESOL, nos percatamos que a nivel nacional se desperdicia cerca del 63.3% de nopal, el cual alcanzaría para alimentar a 0.87% de las familias mexicanas al año. Con el propósito de generar un impacto positivo, nuestro trabajo consiste en no sólo dar a conocer los beneficios de este alimento, sino también en usarlo para combatir la malnutrición en nuestro país. </p>
+La desnutrición es un problema latente en zonas en las que habitan personas que se encuentran en situación de pobreza, de acuerdo a un ensayo realizado por Alimentación para la salud “las personas y los grupos con menor poder social, económico o político es a quienes se les dificulta el acceso físico, social y económico a suficientes alimentos inocuos y nutritivos, y son ellas quienes más sufren de hambre o malnutrición” (2020), vivimos en un país con altos niveles de desigualdad, en el que los alimentos más saludables o beneficiosos para la salud se encuentran disponibles sólo para aquellos que tienen un poder social alto; en consecuencia, es más complicado que todos puedan acceder a dietas saludables. Desafortunadamente, solamente llegan a cubrir parte de su alimentación con comida barata que no aporta ningún tipo de contenido nutritivo para la salud, esta carencia en nutrientes afecta a miles de niños y adolescentes año con año, que como resultado padecen de retraso de crecimiento, bajo rendimiento escolar, anemia, entre otras consecuencias negativas que dificultan su desarrollo. Lo previamente mencionado nos remarca lo necesidad de implementar nuevas medidas con las cuales logremos aprovechar en mayor medida los alimentos en nuestro país, entre los que se encuentra el nopal, verdura que posee un precio económico y accesible, muy por debajo de otras opciones en el mercado, y que, por si fuera poco, se encuentra entre las principales de desecho. De acuerdo a un estudio realizado por SEDESOL nos percatamos que a nivel nacional se desperdicia cerca del 63.3% de nopal, el cual alcanzaría para alimentar a 0.87% de familias mexicanas al año. Con el propósito de generar un impacto positivo, nuestro trabajo consiste en no sólo dar a conocer los beneficios de este alimento, sino también de usarlo para combatir la malnutrición en nuestro país.
 
-<p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
+Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. 
 
+![prickly-pear-1501307](https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="800" height="500"> </img> </p>
-			   	
 *Modificar el tamaño de la imágen para que no se vea tan grande* 
 
-<p align="justify"> En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto. </p>
+En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto.
 
 # Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
@@ -56,10 +56,10 @@
 
 # Objetivos 
 
-### Objetivo General
-1.	Promocionar el consumo del nopal como un alimento de origen natural que ayuda a disminuir problemas de sobrepeso, obesidad y desnutrición en México.
+## Objetivo General
+1.	Promocionar el consumo del nopal como un alimento de origen natural que ayuda a disminuir problemas de sobrepeso, obesidad y desnutrición en México
 
-### Objetivos Particulares
+## Objetivos Particulares
 1.	Incentivar el consumo del nopal por medio de la difusión de los componentes y beneficios tanto nutricionales como económicos de estos últimos.
 2.	Estudiar el panorama general del sobrepeso, la obesidad y la desnutrición en México, especialmente por medio de datos estadísticos.
 3.	Informar sobre el proyecto que pretende reducir el porcentaje de desperdicio del nopal y la manera en que lo lleva a cabo, así como sugerir mejoras para aumentar su impacto nacional.
@@ -67,9 +67,9 @@
 
 # Metodología 
 
-<p align="justify"> En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar un mayor provecho a este alimento.</p>
+En base a graficas elaboradas por SEDESOL, las cuales expresan los desperdicios en México al año, equivalentes a 10, 431, 000 toneladas al año, nos percatamos que uno de los alimentos más desperdiciados fue el nopal; por ello, decidimos hacer una investigación más profunda sobre cómo le podríamos sacar un mayor provecho a este alimento.
 
-<p align="justify">  Durante el proceso de investigación, nos percatamos de que el nopal es rico en fósforo, calcio y fibra, además de ayudar a prevenir diabetes, bajar el colesterol y proporcionar una alta concentración de nutrientes. Por lo anterior, una dieta a base de nopal podría resultar muy beneficiosa para pacientes con desórdenes alimenticios, especialmente con aquellos que padezcan de sobrepeso, obesidad y desnutrición.</p>
+Durante el proceso de investigación, nos percatamos de que el nopal es rico en fósforo, calcio y fibra, además de ayudar a prevenir diabetes, bajar el colesterol y proporcionar una alta concentración de nutrientes. Por lo anterior, una dieta a base de nopal podría resultar muy beneficiosa para pacientes con desórdenes alimenticios, especialmente con aquellos que padezcan de sobrepeso, obesidad y desnutrición.
 
 Lamentablemente, la malnutrición es un problema que afecta a muchos niños y adolescentes en México, sin mencionar que es en estas etapas cuando se generán más impactos negativos, entre ellos las tallas bajas y el desarrollo insuficiente del sistema inmunológico. Por otro lado, el sobrepeso y la obesidad favorecen la aparición de enfermedades como la diabetes, problemas circulatorios del corazón y riñones, todas ellas  repercusiones graves que alteran la calidad y esperanza de vida; según datos de la UNICEF:
 
@@ -86,8 +86,6 @@ Por otra parte, el 70% de los mexicanos padece sobrepeso y casi una tercera part
 Por medio de una investigación documental acerca de los beneficios del nopal encontramos muy buenos resultados entre ellos que el nopal provee de mucha fibra que es beneficiosa para atrapar lípidos y carbohidratos que ayudan a combatir enfermedades como la diabetes, sin mencionar que provee de nutrimentos que resultan esenciales para los niños y adolescentes entre los que se encuentra una cantidad baja de carbohidratos, calcio, proteínas y aminoácidos.
 
 A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. 
-
-![Obesidad-infantil-en-México-problema-vigente-en-2019-1](https://user-images.githubusercontent.com/88996378/130335156-9a89c066-ab66-4157-8e5d-3f5e4810d5c7.jpg)
 
 # Marco teórico 
 ##  1.	Obesidad
@@ -109,17 +107,13 @@ De acuerdo con información obtenida de la Encuesta Nacional de salud y Nutrici�
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020)
 
-![R](https://user-images.githubusercontent.com/88996378/130335099-cc432ba4-fe46-4a35-96ea-d74b7df81513.jpg)
-
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
 
 La palabra desnutrición hace referencia a la perdida anormal de peso en el organismo, sin importar el porcentaje perdido, sin embargo, se ha creado una clasificación de los diferentes grados de desnutrición, se considera una desnutrición de primer grado a todo pérdida de peso debajo del 25% del peso que el individuo debería tener acorde a su edad, llamamos desnutrición de segundo grado cuando la perdida de pero fluctúa entre el 25 y 40% y  se denomina de tercer grado cuando este porcentaje supera el 40%.
 La causa de la desnutrición es clara, el 90% de los estados de desnutrición son ocasionados por la subalimentación del sujeto, lo que se traduce en deficiencia sobre la cantidad y calidad de alimentos consumidos. La subalimentación es ocasionada por múltiples factores como alimentaciones pobres o miserables, falta de higiene y faltas de técnica en la alimentación del individuo que también influye en gran manera la pobreza y la ignorancia. El otro 10% de las causas que producen la desnutrición son por infecciones enterales o parenterales como defectos congénitos en los niños, nacimiento prematuro y los débiles congénitos. 
-En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades.
-
-![niñosindigenas_pobres](https://user-images.githubusercontent.com/88996378/130335102-349fa83b-967c-4151-b536-71337aa94235.jpg)
-
+En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. 
+ 
 ### 2.2 Panorama en México y en el mundo
 Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos. 
 A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013)
@@ -232,160 +226,55 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow">Compuesto</th>
-    <th class="tg-c3ow">Contenido en 100 gr de nopal</th>
-    <th class="tg-c3ow">Efecto farmacológico</th>
-    <th class="tg-c3ow">Referencias</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">*Ácidos fenólicos</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido gálico</td>
-    <td class="tg-0pky">0.64–2.37</td>
-    <td class="tg-0pky">Antioxidante, antiinflamatorio y antitumoral</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido cumarico</td>
-    <td class="tg-0pky">14.08–16.18</td>
-    <td class="tg-0pky">Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016.</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">3,4-dihidroxibenzoico</td>
-    <td class="tg-0pky">0.06–5.02</td>
-    <td class="tg-0pky">Antiinflamatorio y antihiperglucémico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">4-hidroxibenzoico</td>
-    <td class="tg-0pky">0.5–4.72</td>
-    <td class="tg-0pky">Antimicrobiano</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Choulis, 2014</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido ferúlico</td>
-    <td class="tg-0pky">0.56–34.77</td>
-    <td class="tg-0pky">Protege la piel de los rayos UV</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Islam et al., 2014</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido salicílico</td>
-    <td class="tg-0pky">0.58–3.54</td>
-    <td class="tg-0pky">Antiinflamatorio y exfolia la piel</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Jacques &amp; Dancer, 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido siríngico</td>
-    <td class="tg-0pky">0.77-2.43</td>
-    <td class="tg-0pky">Previene la diabetes, cáncer y enfermedades cardiovasculares</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Srinivasulu et al., 2018 ;López-Palacios &amp; Peña-Valdivia, 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido protocatechico</td>
-    <td class="tg-0pky">0.71-1.26</td>
-    <td class="tg-0pky">Previene la diabetes, cáncer ulceras y esclerosis</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Kakkar &amp; Bais, 2014 ; Kolniak-Ostek et al., 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">*Flavonoides</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Isoquercetina</td>
-    <td class="tg-0pky">2.29–39.67</td>
-    <td class="tg-0pky">Neuroprotector y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Appleton , 2010</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Isorhamnetina-3-O-glucósido</td>
-    <td class="tg-0pky">4.59–32.21</td>
-    <td class="tg-0pky">Anticancerígeno, antitumoral y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Nicotiflorina</td>
-    <td class="tg-0pky">2.89–146.5</td>
-    <td class="tg-0pky">Antinflamatorio, neuroprotector, antibacterial, antiviral y analgésico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Yu et al., 2021</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Rutina</td>
-    <td class="tg-0pky">2.36–26.17</td>
-    <td class="tg-0pky">Anticancerígeno, neuroprotector y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Quercetina</td>
-    <td class="tg-0pky">4.32-9.05</td>
-    <td class="tg-0pky">Controla azúcar en la sangre, cardioprotector</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Sissons, 2019; Kuti, 2004</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Kaempferol</td>
-    <td class="tg-0pky">0.11-0.38</td>
-    <td class="tg-0pky">Anticancerígeno</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Chen &amp; Chen, 2013;Kuti, 2004</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  </tr>
-</tbody>
-</table>
+|          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |                      Referecnias                                                       |  
+|:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|                                                                                       |
+| **Ácidos fenólicos**        |                              |                                                                               |                                                                                       | 
+| Ácido gálico                | 0.64–2.37                    | Antioxidante, antiinflamatorio y antitumoral                                  | El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019                 |
+| Ácido cumarico              | 14.08–16.18                  | Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico. | El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016                       |
+| 3,4-dihidroxibenzoico       | 0.06–5.02                    | Antiinflamatorio y antihiperglucémic                                          | El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015.                 |   
+| 4-hidroxibenzoico           | 0.5–4.72                     | Antimicrobiano                                                                | El-Mostafa et al., 2014; Aruwa et al., 2018; Choulis, 2014.                         |
+| Ácido ferúlico              | 0.56–34.7                    | Protege la piel de los rayos UV.                                              | El-Mostafa et al., 2014; Aruwa et al., 2018; Islam et al., 2014                     |
+| Ácido salicílico            | 0.58–3.54                    | Antiinflamatorio y exfolia la piel                                            |  El-Mostafa et al., 2014; Aruwa et al., 2018; Jacques & Dancer, 2020                 |
+| Ácido siríngico             | 0.77-2.43                    | Previene la diabetes, cáncer y enfermedades cardiovasculares                  | Aruwa et al., 2018; Srinivasulu et al., 2018 ;López-Palacios & Peña-Valdivia, 2020.  |
+| Ácido protocatechico        | 0.71-1.26                    | Previene la diabetes, cáncer ulceras y esclerosis.                            | Aruwa et al., 2018; Kakkar & Bais, 2014 ; Kolniak-Ostek et al., 2020.                |
+| **Flavonoides**             |                              |                                                                               | 
+                                                  |
+| Isoquercetina               | 2.29–39.67                   | Neuroprotector y cardioprotector.                                             | El-Mostafa et al., 2014; Aruwa et al., 2018; Appleton , 2010.                       | 
+| Isorhamnetina-3-O-glucósido | 4.59–32.21                   | Anticancerigeno,, atitumoral y cardioprotector                                | El-Mostafa et al., 2014; Aruwa et al., 2018                                         |
+| Nicotiflorina               | 2.89–146.5                   | Antinflamatorio, neuroprotector, antibacterial, antiviral y analgésico        |  El-Mostafa et al., 2014; Aruwa et al., 2018; Yu et al., 2021.                       |
+| Rutina                      | 2.36–26.17                   | Anticancerígeno, neuroprotector y cardioprotector                             |  El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar  & Saluja, 2017.          |
+| Quercetina                  |  4.32-9.05                   | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
+| Kaempferol                  |  0.11-0.38                   | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
+ 
 
-**Tabla 5. Polifenoles presentes en el nopal*
+
+# Resultados 
+
+Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
+
+De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox).  
+
+Igualmente, la expresión del gen precursor de proteína amiloide (App), el cual está relacionado a cambios inflamatorios en el cerebro y el tejido adiposo durante la obesidad y asociado con la resistencia a la insulina, se redujo considerablemente lo cual benefició las funciones cognitivas. 
+
+Adicionalmente, se redujo la expresión de los genes de la proteína de unión al elemento regulador de esterol 1 (Srebp-1), la sintasa de ácidos grasos (Fas) y la acetil CoA carboxilasa (ACC), los cuales están relacionados a la lipogénesis hepática. 
+
+Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). 
+
+De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  
+
+Los resultados obtenidos se reportan en la siguiente tabla: 
+
+|          Gen                                                  |           Proteina                                             |  Especie                      |  Código    |   Porcentaje de indentidad  |
+|:-------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------:|------------------------------------|-------------------------------------|
+| Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (Tnf)                                |   Mus musculus   Homo sapiens |    NP_038721.1   NP_000585.2        |               78.81%                | 
+| NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                         |   Mus musculus   Homo sapiens |    NP_757340.1   NP_008983.2        |               84.04%                |
+| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)|Proteína de unión al elemento regulador de esterol 1 (Srebp-1)  |   Mus musculus   Homo sapiens |    NP_035610.1   NP_001005291.1     |               75.30%                |
+| Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                        |   Mus musculus   Homo sapiens |    NP_032013.2    NP_000034.1        |               48.50%                |
+
+**Tabla 5. Porcentaje de identidad entre genes del raton y el humano*
+
+
+Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. 
 
 # Conclusiones
 
@@ -399,7 +288,6 @@ Gracias a la investigación, se logró conocer cuál es la población más afect
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
-![beneficios_pages-to-jpg-0001](https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg)
 
 # Video
 
@@ -416,13 +304,11 @@ Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra i
 
 # Agradecimientos 
   
-![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif) 
+![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)
 
 *Centrar el GIFT*
 
 # Equipo de trabajo 
-
-
 
 💬 Maritza Barrios Macías
 
