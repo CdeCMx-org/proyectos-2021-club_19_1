@@ -226,8 +226,6 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
-
-</style>
 <table class="tg">
 <thead>
   <tr>
