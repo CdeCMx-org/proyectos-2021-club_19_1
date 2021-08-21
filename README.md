@@ -422,45 +422,21 @@ Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra i
 
 # Equipo de trabajo 
 
-<section class="fdb-block team-4">
+<section class="fdb-block">
   <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-8">
-        <h1>Team</h1>
+    <div class="row pb-3">
+      <div class="col text-center">
+        <h1>Froala Design Blocks</h1>
       </div>
     </div>
-
-    <div class="row text-center mt-5">
+    <div class="row pt-5 justify-content-center align-items-center">
       <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/5.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>A wonderful serenity has taken possession of my entire soul.</p>
+        <img alt="image" class="img-fluid" src="./imgs/draws/design-life.svg">
       </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/6.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>Pityful a rethoric question ran over her cheek.</p>
+      <div class="col-3 offset-1">
+        <img alt="image" class="img-fluid" src="./imgs/draws/designer.svg">
       </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>And if she hasn’t been rewritten, then they are still using her.</p>
-      </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/2.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>Wild Question Marks, but the Little Blind Text didn’t listen.</p>
-      </div>
-    </div>
-  </div>
-</section>
+      <div
 
 
 💬 Maritza Barrios Macías
