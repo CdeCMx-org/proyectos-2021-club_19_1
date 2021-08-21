@@ -4,14 +4,18 @@
 ### Agradecemos el apoyo y el aprendizaje brindado por los instructores Dr. Manuel Méndez García y Dr. Rigoberto Rosas Luis en esta edición de Clubes de Ciencia México 
 
 # Contenido 
+- [Resumen](#resumen)
+- [Abstract](#abstract)
 - [Introducción](#introducción) 
-- [Objetivos de Desarrollo Sostenible 2030 en los que participamos](#objetivos-de-desarrollo-sostenible-2030-en-los-que-participamos) 
+- [Objetivos de Desarrollo Sostenible 2030 en los que participamos](#objetivos-de-desarrollo-sostenible-2030-en-los-que-participamos)
+- [Objetivos](#objetivos) 
 - [Metodología](#metodología) 
-- [Resultados](#resultados) 
+- [Planteamiento del problema](#planteamiento-del-problema) 
+- [Marco teórico](#marco-teórico)
 - [Conclusiones](#conclusiones) 
 - [Anexos](#anexos) 
+- [Referencias](#referencias) 
 - [Video](#video) 
-- [Aprende más](#aprende-más) 
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
 
