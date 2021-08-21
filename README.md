@@ -87,8 +87,7 @@ Por medio de una investigación documental acerca de los beneficios del nopal en
 
 A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. 
 
-![OIP](https://user-images.githubusercontent.com/88996378/130335103-5c4cc1b2-bdef-4757-a94f-432e5dfca92f.jpg)
- 
+![Obesidad-infantil-en-México-problema-vigente-en-2019-1](https://user-images.githubusercontent.com/88996378/130335156-9a89c066-ab66-4157-8e5d-3f5e4810d5c7.jpg)
 
 # Marco teórico 
 ##  1.	Obesidad
