@@ -87,6 +87,9 @@ Por medio de una investigación documental acerca de los beneficios del nopal en
 
 A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. 
 
+![OIP](https://user-images.githubusercontent.com/88996378/130335103-5c4cc1b2-bdef-4757-a94f-432e5dfca92f.jpg)
+ 
+
 # Marco teórico 
 ##  1.	Obesidad
 ### 1.1 Definición, causas y consecuencias generales.
@@ -107,13 +110,17 @@ De acuerdo con información obtenida de la Encuesta Nacional de salud y Nutrici�
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020)
 
+![R](https://user-images.githubusercontent.com/88996378/130335099-cc432ba4-fe46-4a35-96ea-d74b7df81513.jpg)
+
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
 
 La palabra desnutrición hace referencia a la perdida anormal de peso en el organismo, sin importar el porcentaje perdido, sin embargo, se ha creado una clasificación de los diferentes grados de desnutrición, se considera una desnutrición de primer grado a todo pérdida de peso debajo del 25% del peso que el individuo debería tener acorde a su edad, llamamos desnutrición de segundo grado cuando la perdida de pero fluctúa entre el 25 y 40% y  se denomina de tercer grado cuando este porcentaje supera el 40%.
 La causa de la desnutrición es clara, el 90% de los estados de desnutrición son ocasionados por la subalimentación del sujeto, lo que se traduce en deficiencia sobre la cantidad y calidad de alimentos consumidos. La subalimentación es ocasionada por múltiples factores como alimentaciones pobres o miserables, falta de higiene y faltas de técnica en la alimentación del individuo que también influye en gran manera la pobreza y la ignorancia. El otro 10% de las causas que producen la desnutrición son por infecciones enterales o parenterales como defectos congénitos en los niños, nacimiento prematuro y los débiles congénitos. 
-En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. 
- 
+En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades.
+
+![niñosindigenas_pobres](https://user-images.githubusercontent.com/88996378/130335102-349fa83b-967c-4151-b536-71337aa94235.jpg)
+
 ### 2.2 Panorama en México y en el mundo
 Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos. 
 A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013)
