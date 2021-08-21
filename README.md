@@ -285,6 +285,35 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
+# Referencias 
+
+1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales
+2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879
+3.	Aruwa, C. E., Amoo, S. O., & Kudanga, T. (2018). Opuntia (Cactaceae) plant compounds, biological activities and prospects – A comprehensive review. Food Research International, 112, 328–344. doi:10.1016/j.foodres.2018.06.047
+4.	Kahkeshani N, Farzaei F, Fotouhi M, Alavi SS, Bahramsoltani R, Naseri R, Momtaz S, Abbasabadi Z, Rahimi R, Farzaei MH, Bishayee A. Pharmacological effects of gallic acid in health and diseases: A mechanistic review. Iran J Basic Med Sci. 2019 Mar;22(3):225-237. doi: 10.22038/ijbms.2019.32806.7897. PMID: 31156781; PMCID: PMC6528712.
+5.	Pei K, Ou J, Huang J, Ou S. p-Coumaric acid and its conjugates: dietary sources, pharmacokinetic properties and biological activities. J Sci Food Agric. 2016 Jul;96(9):2952-62. doi: 10.1002/jsfa.7578. Epub 2016 Jan 25. PMID: 26692250.
+6.	Semaming, Y., Pannengpetch, P., Chattipakorn, S. C., & Chattipakorn, N. (2015). Pharmacological properties of protocatechuic Acid and its potential roles as complementary medicine. Evidence-based complementary and alternative medicine : eCAM, 2015, 593902. https://doi.org/10.1155/2015/593902
+7.	Choulis, N. H. (2014). Miscellaneous drugs, materials, medical devices, and techniques. Side Effects of Drugs Annual, 899–924. doi:10.1016/b978-0-444-62635-6.00049-8 
+8.	Islam, M. S., Matsuki, N., Nagasaka, R., Ohara, K., Takamitsu Hosoya, Ozaki, H., … Hori, M. (2014). Rice Bran Antioxidants in Health and Wellness. Wheat and Rice in Disease Prevention and Health, 443–451. doi:10.1016/b978-0-12-401716-0.00034-9 
+9.	Jacques, R., & Dancer, R. (2020, 22 agosto). What Does Salicylic Acid Do For Your Skin, Exactly? — Expert Advice. Allure. https://www.allure.com/story/what-does-salicylic-acid-do
+10.	Srinivasulu, C., Ramgopal, M., Ramanjaneyulu, G., Anuradha, C. M., & Suresh Kumar, C. (2018). Syringic acid (SA) ‒ A Review of Its Occurrence, Biosynthesis, Pharmacological and Industrial Importance. Biomedicine & Pharmacotherapy, 108, 547–557. doi:10.1016/j.biopha.2018.09.069
+11.	Kakkar, S., & Bais, S. (2014). A Review on Protocatechuic Acid and Its Pharmacological Potential. ISRN Pharmacology, 2014, 1–9. doi:10.1155/2014/952943 
+12.	López-Palacios, C., & Peña-Valdivia, C. B. (2020). Screening of secondary metabolites in cladodes to further decode the domestication process in the genus Opuntia (Cactaceae). Planta, 251(4). doi:10.1007/s00425-020-03371-9 
+13.	Kolniak-Ostek, J., Kita, A., Miedzianka, J., Andreu-Coll, L., Legua, P., & Hernandez, F. (2020). Characterization of Bioactive Compounds of Opuntia ficus-indica (L.) Mill. Seeds from Spanish Cultivars. Molecules, 25(23), 5734. doi:10.3390/molecules25235734 
+14.	Appleton, J. (2010). Evaluating the Bioavailability of Isoquercetin. Natural medicine journal. January 2010 Vol. 2 Issue 1
+15.	Yu S, Guo Q, Jia T, Zhang X, Guo D, Jia Y, Li J, Sun J. (2021). Mechanism of Action of Nicotiflorin from Tricyrtis maculata in the Treatment of Acute Myocardial Infarction: From Network Pharmacology to Experimental Pharmacology. Drug Des Devel Ther. 2021;15:2179-2191 https://doi.org/10.2147/DDDT.S302617
+16.	Ganeshpurkar, A., & Saluja, A. K. (2017). The Pharmacological Potential of Rutin. Saudi Pharmaceutical Journal, 25(2), 149–164. doi:10.1016/j.jsps.2016.04.025 
+17.	Sissons, B. (2019, 14 enero). What are the benefits of quercetin? Medical News Today. https://www.medicalnewstoday.com/articles/324170
+18.	Chen, A. Y., & Chen, Y. C. (2013). A review of the dietary flavonoid, kaempferol on human health and cancer chemoprevention. Food Chemistry, 138(4), 2099–2107. doi:10.1016/j.foodchem.2012.11.13
+19.	Kuti, J. O. (2004). Antioxidant compounds from four Opuntia cactus pear fruit varieties. Food Chemistry, 85(4), 527–533. doi:10.1016/s0308-8146(03)00184-5
+20.	E. (2018, 11 octubre). 10 razones para comer nopales diario. El Universal. https://www.google.com.mx/amp/s/www.eluniversal.com.mx/menu/10-razones-para-comer-nopales-diario%3famp
+21.	Marketing RG. (2021, 5 abril). 10 BENEFICIOS DEL MANGO. Reyes Gutiérrez. https://www.reyesgutierrez.com/10-beneficios-del-mango/
+22.	Botanical Online SL. (2021, 20 julio). Valor nutricional. . . Botanical-online. https://www.botanical-online.com/alimentos/nopalitos-valor-nutricional
+23.	FOODB. (s. f.). Showing Food Nopal. Recuperado 18 de agosto de 2021, de https://foodb.ca/foods/FOOD00416
+24.	Sánchez-Tapia, M., Aguilar-López, M., Pérez-Cruz, C., Pichardo-Ontiveros, E., Wang, M., Donovan, S. M., … Torres, N. (2017). Nopal (Opuntia ficus indica) protects from metabolic endotoxemia by modifying gut microbiota in obese rats fed high fat/sucrose diet. Scientific Reports, 7(1). doi:10.1038/s41598-017-05096-4
+25.	Hermanos, S. (2021, 28 mayo). El nopal, un beneficio para personas con diabetes. Somos Hermanos. https://www.somoshermanos.mx/el-nopal-un-beneficio-para-personas-con-diabetes/
+26.	C.O.N.A.B.I.O. (2015, 1 enero). Untitled Document. CONABIO. http://www.conabio.gob.mx/conocimiento/cactoblastis/cacto/importancia.htm
+27.	Garcés G, L. K. (2018, 25 septiembre). Recetas con Nopal contra diabetes, sobrepeso y problemas de piel. Biomanantial. https://www.biomanantial.com/recetas-con-nopal-contra-diabetes-sobrepeso-y-problemas-de-piel/ 
 
 # Video
 
@@ -293,11 +322,6 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
 
 *Centrar*
-
-# Aprende más 
-
-Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación.
-
 
 # Agradecimientos 
   
