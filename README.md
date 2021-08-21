@@ -285,6 +285,8 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
 
+![beneficios_pages-to-jpg-0001](https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg)
+
 # Referencias 
 
 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales
