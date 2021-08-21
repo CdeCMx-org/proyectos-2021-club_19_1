@@ -25,13 +25,13 @@
 En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, la desigualdad social, y la marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo por
 contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
 
-####  *Palabras clave: malnutrición; nopal; niños; adolescentes.
+##### *Palabras clave: malnutrición; nopal; niños; adolescentes.
 
 # Abstract 
 
 In Mexico, malnutrition affects thousands of children and adolescents, among the main reasons is the lack of information, limitations on access to healthy food, the family and school environment, social inequality, and marginalization in certain sectors of the country, which is why through this article we propose a project in which these three problems can be addressed:  malnutrition, overweight and obesity, by promoting the consumption of nopal, a highly nutritious food which contains essential amino acids, protein, fiber, calcium and few carbohydrates.
 
-#### *Key words: malnutrition; nopal; children; adolescents.
+##### *Key words: malnutrition; nopal; children; adolescents.
 
 # Introducción 
 
@@ -107,8 +107,6 @@ De acuerdo con información obtenida de la Encuesta Nacional de salud y Nutrici�
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020)
 
-![R](https://user-images.githubusercontent.com/88996378/130334538-39884fe5-a8bb-4e62-bac4-5da267f44235.jpg)
-
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
 
@@ -116,8 +114,6 @@ La palabra desnutrición hace referencia a la perdida anormal de peso en el orga
 La causa de la desnutrición es clara, el 90% de los estados de desnutrición son ocasionados por la subalimentación del sujeto, lo que se traduce en deficiencia sobre la cantidad y calidad de alimentos consumidos. La subalimentación es ocasionada por múltiples factores como alimentaciones pobres o miserables, falta de higiene y faltas de técnica en la alimentación del individuo que también influye en gran manera la pobreza y la ignorancia. El otro 10% de las causas que producen la desnutrición son por infecciones enterales o parenterales como defectos congénitos en los niños, nacimiento prematuro y los débiles congénitos. 
 En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. 
  
-![niñosindigenas_pobres](https://user-images.githubusercontent.com/88996378/130334516-20e0bb0a-0eba-4d0f-92dc-30ce60e202cd.jpg)
-
 ### 2.2 Panorama en México y en el mundo
 Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos. 
 A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013)
@@ -230,175 +226,45 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c3ow">Compuesto</th>
-    <th class="tg-c3ow">Contenido en 100 gr de nopal</th>
-    <th class="tg-c3ow">Efecto farmacológico</th>
-    <th class="tg-0pky">Referencias</th>
-    <th class="tg-0pky"></th>
-    <th class="tg-0pky"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">*Ácidos fenólicos</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido gálico</td>
-    <td class="tg-0pky">0.64–2.37</td>
-    <td class="tg-0pky">Antioxidante, antiinflamatorio y antitumoral</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido cumarico</td>
-    <td class="tg-0pky">14.08–16.18</td>
-    <td class="tg-0pky">Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016.</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">3,4-dihidroxibenzoico</td>
-    <td class="tg-0pky">0.06–5.02</td>
-    <td class="tg-0pky">Antiinflamatorio y antihiperglucémico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">4-hidroxibenzoico</td>
-    <td class="tg-0pky">0.5–4.72</td>
-    <td class="tg-0pky">Antimicrobiano</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Choulis, 2014</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido ferúlico</td>
-    <td class="tg-0pky">0.56–34.77</td>
-    <td class="tg-0pky">Protege la piel de los rayos UV</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Islam et al., 2014</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido salicílico</td>
-    <td class="tg-0pky">0.58–3.54</td>
-    <td class="tg-0pky">Antiinflamatorio y exfolia la piel</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Jacques &amp; Dancer, 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido siríngico</td>
-    <td class="tg-0pky">0.77-2.43</td>
-    <td class="tg-0pky">Previene la diabetes, cáncer y enfermedades cardiovasculares</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Srinivasulu et al., 2018 ;López-Palacios &amp; Peña-Valdivia, 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Ácido protocatechico</td>
-    <td class="tg-0pky">0.71-1.26</td>
-    <td class="tg-0pky">Previene la diabetes, cáncer ulceras y esclerosis</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Kakkar &amp; Bais, 2014 ; Kolniak-Ostek et al., 2020</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">*Flavonoides</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Isoquercetina</td>
-    <td class="tg-0pky">2.29–39.67</td>
-    <td class="tg-0pky">Neuroprotector y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Appleton , 2010</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Isorhamnetina-3-O-glucósido</td>
-    <td class="tg-0pky">4.59–32.21</td>
-    <td class="tg-0pky">Anticancerígeno, antitumoral y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Nicotiflorina</td>
-    <td class="tg-0pky">2.89–146.5</td>
-    <td class="tg-0pky">Antinflamatorio, neuroprotector, antibacterial, antiviral y analgésico</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Yu et al., 2021</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Rutina</td>
-    <td class="tg-0pky">2.36–26.17</td>
-    <td class="tg-0pky">Anticancerígeno, neuroprotector y cardioprotector</td>
-    <td class="tg-0pky">El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Quercetina</td>
-    <td class="tg-0pky">4.32-9.05</td>
-    <td class="tg-0pky">Controla azúcar en la sangre, cardioprotector</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Sissons, 2019; Kuti, 2004</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Kaempferol</td>
-    <td class="tg-0pky">0.11-0.38</td>
-    <td class="tg-0pky">Anticancerígeno</td>
-    <td class="tg-0pky">Aruwa et al., 2018; Chen &amp; Chen, 2013;Kuti, 2004</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
 
-**Tabla 5. Polifenoles presentes en el nopal*
 
-## 4. Importancia ambiental y económica 
 
-Del punto de vista ambiental las especies de nopal son elementos en la flora mexicana natural, especialmente en los desiertos de Chihuahua y en el norte tienen la mayor diversidad de especies y las poblaciones de nopal cubren una superficie de millones de hectáreas. Además, los nopales son el grupo de plantas más importante para mantener un equilibrio ecológico en extensiones del territorio mexicano. ayudan a la regeneración y estabilidad del suelo y son la principal defensa para que el campo no se convierta en un desierto. también son un alimento básico para muchas especies de mamíferos, y sirven para hogar y refugio a muchos insectos y clases de aves. No perdamos de vista que estas consecuencias podrían ser muy graves para nosotros.
 
-Desde el punto económico, las especies de nopal son un recurso muy importante por su forma de producto alimenticio. muchos miles de empleos son generados por el cultivo variado de especies de nopal. La producción como verdura se lleva a cabo en la mayoría de los estados del país y ocupa miles de hectáreas en cultivo y productores; la producción como fruta con variedades se encuentra en otros estados del país y utiliza miles de hectáreas de cultivo y miles de productores. la producción y las exportaciones asciende a millones de dólares anuales. 
+# Resultados 
 
-El nopal es uno de los recursos con más importancia económica en la flora mexicana. Actualmente, por sus varias propiedades nutritivas, químicas, industriales, ecológicas, medicinales y simbólicas, entre otras, el nopal es uno de los recursos vegetales más importantes para los habitantes de las zonas áridas y semiáridas.
-Las tres estructuras principales de los nopales para el consumo humano son: el cladodio, la tuna y el xoconostle. Los cladodios o mejor conocidos como pencas, son tallos gruesos y cerosa que evita la evapotranspiración. La tuna es el fruto turgente, el xoconostle o tuna ácida, posee una cascara sagrada gruesa y pulpa muy escasa.
+Con base a lo anteriormente expuesto, se conoce que el nopal tiene múltiples beneficios, por lo que se expone lo siguiente. Un estudio encabezado por Mónica Sánchez en 2017, comprobó que ratas obesas alimentadas con una dieta rica en grasas y sacarosa, al modificar su dieta a una con menor cantidad de sacarosa y nopal se redujo la endotoxina metabólica, la GIP sérica y la tolerancia a la glucosa. 
+
+De forma paralela se demostró que el consumo de nopal disminuyó la expresión de genes relacionados a la inflamación y el estrés oxidativo en tejido adiposo, esto debido a que los polifenoles del nopal disminuyen la expresión de los genes Tnf-α, and NADPH oxidasa (Nox).  
+
+Igualmente, la expresión del gen precursor de proteína amiloide (App), el cual está relacionado a cambios inflamatorios en el cerebro y el tejido adiposo durante la obesidad y asociado con la resistencia a la insulina, se redujo considerablemente lo cual benefició las funciones cognitivas. 
+
+Adicionalmente, se redujo la expresión de los genes de la proteína de unión al elemento regulador de esterol 1 (Srebp-1), la sintasa de ácidos grasos (Fas) y la acetil CoA carboxilasa (ACC), los cuales están relacionados a la lipogénesis hepática. 
+
+Para analizar si el consumo del nopal tendría un efecto similar en la regulación de genes del humano, se corroboró en la base de datos NCBI que los cinco genes (Tnf , Nox, Srebp-1, Fas y ACC) fueran homólogos, es decir, que estén presentes tanto en el humano (Homo sapiens) como en ratón (Mus musculus). 
+
+De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp.  
+
+Los resultados obtenidos se reportan en la siguiente tabla: 
+
+|          Gen                                                  |           Proteina           |  Especie                              |  Código    |   Porcentaje de indentidad  |
+|:-------------------------------------------------------------:|:----------------------------:|:-------------------------------------:|------------|-----------------------------|
+| Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (  |                                       |            |                             | 
+| NADPH oxidasa 1 (Nox1)                                        | 5.01                         |                                       |            |                             |
+| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| 3.13                         |                                       |            |                             |
+| Receptor de muerte de la superficie celular Fas (Fas)         | 4.38                         |                                       |            |                             |
+
 
 # Conclusiones
 
 Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar la alimentación de millones de niños y adolescentes en México, porque el problema va más allá de sólo la elaboración algún manual sobre el buen comer, se necesita llevar a cada mesa de México una dieta sana y balanceada.
 
-Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra: 
+Entre los principales problemas que dificultan el consumo de dietas más saudables se ecnuentra, la accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
 
-1. La accesibilidad a ciertos alimentos, es por ello que nos quisimos enfocar en un producto del cual su desecho sirviera como mínimo para alimentar a una pequeña fracción de mexicanos en zonas vulnerables como lo son las zonas rurales porque los indígenas son más propensos a tener más malnutrición a temprana edad. 
-
-Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos. 
+Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos.  
 
 # Anexos 
 
 ![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
-
-![beneficios_pages-to-jpg-0001](https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg)
 
 
 # Video
@@ -409,6 +275,11 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 *Centrar*
 
+# Aprende más 
+
+Si te interesa el tema y quieres aprender más, aquí puedes encontrar nuestra investigación.
+
+
 # Agradecimientos 
   
 ![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)
@@ -416,45 +287,6 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 *Centrar el GIFT*
 
 # Equipo de trabajo 
-
-<section class="fdb-block team-4">
-  <div class="container">
-    <div class="row text-center justify-content-center">
-      <div class="col-8">
-        <h1>Conócenos</h1>
-      </div>
-    </div>
-
-    <div class="row text-center mt-5">
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="InShot_20210411_234335512.jpg">
-        <h3><strong>Perla Genoveva Olivera Cortés</strong></h3>
-        <p>Estudiante del Colegio de Bachilleres del Estado de Oaxaca</p>
-      </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/6.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>Pityful a rethoric question ran over her cheek.</p>
-      </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/3.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>And if she hasn’t been rewritten, then they are still using her.</p>
-      </div>
-
-      <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/2.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>Wild Question Marks, but the Little Blind Text didn’t listen.</p>
-      </div>
-    </div>
-  </div>
-</section>
 
 💬 Maritza Barrios Macías
 
