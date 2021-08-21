@@ -19,6 +19,18 @@
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
 
+# Resumen 
+
+En México, la malnutrición afecta a miles de niños y adolescentes, entre las razones principales se encuentra la falta de información nutrimental, limitaciones al acceso de alimentos saludables, el entorno familiar y escolar, y la desigualdad social o marginación en determinados sectores del país, es por ello que a través de este artículo proponemos un proyecto en el que se puedan atender estas tres problemáticas: desnutrición, sobrepeso y obesidad, mediante la promoción del consumo de nopal, alimento altamente nutritivo al contener aminoácidos esenciales, proteína, fibra, calcio y pocos carbohidratos.
+
+## *Palabras clave: malnutrición; nopal; niños; adolescentes.
+
+# Abstract 
+
+In Mexico malnutrition affects thousands of children and adolescents, among the main reasons is the lack of nutritional information, limitations on access to healthy food, the family and school environment, and social inequality or marginalization in certain sectors of the country, which is why through this article we seek to propose a project in which these three problems can be addressed: malnutrition, overweight and obesity, by promoting the consumption of nopal which is highly nutritious because it contains essential amino acids, protein, fiber, calcium and few carbohydrates.
+
+## *Key words: malnutrition; nopal; children; adolescents.
+
 # Introducción 
 
 La malnutrición es un problema paradójico que ha persistido en nuestro país desde hace muchos años, por un lado, hay un sector que sufre de hambre, predominantemente población indígena en los estados del sur, y por otro un sector que padece de sobrepeso y obesidad el cual sostiene dietas con pocos aportes calóricos y sí muchos contenidos altos en sodio, grasas saturadas, grasas trans, azúcares, edulcorantes, etc. La población mexicana es consciente del problema, pero hasta la actualidad en pleno 2021 se han visto resultados desalentadores para los objetivos de la agenda 2030. Es una problemática que requiere de atención política y social pero también demanda propuestas en el ámbito de salud. De acuerdo al Instituto Nacional de Salud Pública 35.6% de niños entre los 5 a 11 años padecen de sobrepeso en un 18.1% y de obesidad en un 17.5%, en cuanto a adolescentes se encontró que de un total de 38.4% entre las edades de 12 a 19 años un 23.8% padecen de sobrepeso y un 14.6% de obesidad. 
