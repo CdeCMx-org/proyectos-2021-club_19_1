@@ -139,7 +139,7 @@ Veamos algunos de los beneficios del nopal.
 
 ## Información nutrimental del nopal
 
-### A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical
+A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical
 
 | Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
 |------------------------------|-------|------------------------------|
@@ -169,6 +169,62 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 **Tabla 2. Vitaminas presentes en el nopal**
 
 ## Minerales 
+
+Se muestra tabla de los minerales en el nopal, así como su contenido en mg por cada 100g de nopal.
+
+| Compuesto | Contenido en 100 gr de nopal |       Referencias        |  
+|:---------:|:----------------------------:|:------------------------:|
+| Calcio    | 5.64–17.95                   | El-Mostafa et al., 2014. |   
+| Magnesio  | 8.80                         | El-Mostafa et al., 2014. |   
+| Sodio     | 0.3–0.4                      | El-Mostafa et al., 2014. |   
+| Potasio   | 2.35–55.20                   | El-Mostafa et al., 2014. |   
+| Hierro    | 0.09                         | El-Mostafa et al., 2014. |   
+| Fósforo   | 0.15–2.59                    | El-Mostafa et al., 2014. |   
+| Zinc      | 0.08                         | El-Mostafa et al., 2014. |   
+| Manganeso | 0.19–0.29                    | El-Mostafa et al., 2014. |
+| Selenio   | 0.7                          | FOODB, s.f.              |   
+| Cobre     | 0.01750                      | FOODB, s.f.              |   
+
+**Tabla 3. Minerales presentes en el nopal*
+
+## Aminoácidos
+
+Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg por cada 100g de nopal.
+
+|         Compuesto         | Contenido en 100 gr de nopal | Referencias El-Mostafa et al., 2014.  |    
+|:-------------------------:|:----------------------------:|:-------------------------------------:|
+| Alanina                   | 1.25                         |                                       |   
+| Arginina                  | 5.01                         |                                       |  
+| Asparagina                | 3.13                         |                                       |   
+| Ácido asparagínico        | 4.38                         |                                       |   
+| Ácido glutámico           | 5.43                         |                                       |   
+| Glutamina                 | 36.12                        |                                       |   
+| Cistina                   | 1.04                         |                                       |   
+| Histidina**               | 4.18                         |                                       |   
+| Isoleucina**              | 3.97                         |                                       |   
+| Leucina**                 | 2.71                         |                                       |   
+| Lisina**                  | 5.22                         |                                       |  
+| Metionina**               | 2.92                         |                                       |   
+| Fenilalanina**            | 3.55                         |                                       |   
+| Serina                    | 6.68                         |                                       |   
+| Treonina**                | 4.18                         |                                       |   
+| Tirosina                  | 1.46                         |                                       |   
+| Triptófano**              | 1.04                         |                                       |   
+| Valina**                  | 7.72                         |                                       |   
+| Ácido α-aminobutírico     | Traza                        |                                       |   
+| Carnosina                 | Traza                        |                                       |   
+| Citrulina                 | Traza                        |                                       |   
+| Ornitina                  | Traza                        |                                       |   
+| Prolina                   | Traza                        |                                       |   
+| Glicina                   | Traza                        |                                       |  
+| Taurina                   | Traza                        |                                       |   
+| **Aminoácios escenciales. |                              |                                       |   
+
+**Tabla 4. Aminoácidos presentes en el nopal*
+
+## Polifenoles
+
+Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
 
 
