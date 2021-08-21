@@ -427,10 +427,9 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
     <div class="row text-center mt-5">
       <div class="col-3">
-        <img alt="image" class="img-fluid rounded" src="./imgs/people/5.jpg">
-        <h3><strong>John Smith</strong></h3>
-        <p>Position</p>
-        <p>A wonderful serenity has taken possession of my entire soul.</p>
+        <img alt="image" class="img-fluid rounded" src="InShot_20210411_234335512.jpg">
+        <h3><strong>Perla Genoveva Olivera Cortés</strong></h3>
+        <p>Estudiante del Colegio de Bachilleres del Estado de Oaxaca</p>
       </div>
 
       <div class="col-3">
