@@ -148,8 +148,8 @@ Veamos algunos de los beneficios del nopal. </p>
 
 A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical (2021):
 
-| Contenido en 100 gr de nopal |       | Referencia: Botanical,2021   |   
-|------------------------------|-------|------------------------------|
+| Contenido en 100 gr de nopal |       | Referencia: Botanical, 2021  |   
+|:----------------------------:|:-----:|:----------------------------:|
 | Agua                         | 93.93 |                              |   
 | Calorías                     | 16    |                              |   
 | Proteínas                    | 3.39  |                              |   
@@ -227,7 +227,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 | Glicina                   | Traza                        |                                       |  
 | Taurina                   | Traza                        |                                       |   
 
-**Aminoácidos escenciales**     
+Aminoácidos escenciales**     
 
 <b> Tabla 4. Aminoácidos presentes en el nopal </b> 
 
