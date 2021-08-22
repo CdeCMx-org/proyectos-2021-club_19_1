@@ -275,15 +275,16 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 <p align="justify"> De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp. </p>
 
 Los resultados obtenidos se reportan en la siguiente tabla: 
+<p align="center">
 
 |          Gen                                                  |           Proteína                                                 |  Especie                      |  Código                                  |   Porcentaje de indentidad           |
-|:-------------------------------------------------------------:|:----------------------------------:|:-----------------------------:|:-----------------------------:|:------------------------------------:|
+|:-------------------------------------------------------------:|:----------------------------------:|:-----------------------------:|:-----------------------------:|:----------------------------------------:|
 | Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (Tnf)                                    |   Mus musculus, Homo sapiens  |   NP_038721.1, NP_000585.2     |               78.81%                 | 
 | NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                             |   Mus musculus, Homo sapiens  |    NP_757340.1, NP_008983.2     |               84.04%                 |
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
-
-**Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
+</p>
+ **Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
 
 
 
@@ -393,5 +394,5 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Equipo de trabajo 
    
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif' width="650" height="500"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif" width="650" height="500"> </p>
 
