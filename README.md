@@ -38,16 +38,12 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130340186-d85bab50-e810-4a5f-9644-5cde5b7965d8.jpg" width="600" height="450"> </p>
 
-<center> <h6> <b> Imagen 1.</b> Obesidad y sobrepeso en México </h6> </center>
-
 
 <p align="justify"> La desnutrición es un problema latente en zonas en las que habitan personas que se encuentran en situación de pobreza, de acuerdo a un ensayo realizado por Alimentación para la salud “las personas y los grupos con menor poder social, económico o político es a quienes se les dificulta el acceso físico, social y económico a suficientes alimentos inocuos y nutritivos, y son ellas quienes más sufren de hambre o malnutrición” (2020), vivimos en un país con altos niveles de desigualdad, en el que los alimentos más saludables o beneficiosos para la salud se encuentran disponibles sólo para aquellos que tienen un poder social alto; en consecuencia, es más complicado que todos puedan acceder a dietas saludables. Desafortunadamente, solamente llegan a cubrir parte de su alimentación con comida barata que no aporta ningún tipo de contenido nutritivo para la salud, esta carencia en nutrientes afecta a miles de niños y adolescentes año con año, que como resultado padecen de retraso de crecimiento, bajo rendimiento escolar, anemia, entre otras consecuencias negativas que dificultan su desarrollo. Lo previamente mencionado nos remarca lo necesidad de implementar nuevas medidas con las cuales logremos aprovechar en mayor medida los alimentos en nuestro país, entre los que se encuentra el nopal, verdura que posee un precio económico y accesible, muy por debajo de otras opciones en el mercado, y que, por si fuera poco, se encuentra entre las principales de desecho. De acuerdo a un estudio realizado por SEDESOL nos percatamos que a nivel nacional se desperdicia cerca del 63.3% de nopal, el cual alcanzaría para alimentar a 0.87% de familias mexicanas al año. Con el propósito de generar un impacto positivo, nuestro trabajo consiste en no sólo dar a conocer los beneficios de este alimento, sino también de usarlo para combatir la malnutrición en nuestro país. </p>
 
 <p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="550" height="350"> </p>
-<p align="center"> <h6> <b> Imagen 2. </b> El nopal como superalimento </h6> </p>
-
 
 
 <p align="justify"> En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto. </p>
@@ -180,7 +176,7 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 | Vitamina B9 | 1.75                         | FOODB, s.f.              |   
 | Vitamina K1 | 5.3                          | FOODB, s.f.              |   
 
-**Tabla 2. Vitaminas presentes en el nopal**
+<h6> <b> Tabla 2. Vitaminas presentes en el nopal </h6> </b>
 
 
 ## Minerales 
@@ -200,7 +196,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Selenio   | 0.7                          | FOODB, s.f.              |   
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
-**Tabla 3. Minerales presentes en el nopal**
+<h6> <b> Tabla 3. Minerales presentes en el nopal </h6> </b>
 
 
 ## Aminoácidos
@@ -238,7 +234,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Aminoácidos escenciales**     
 
-**Tabla 4. Aminoácidos presentes en el nopal**
+<h6> <b> Tabla 4. Aminoácidos presentes en el nopal </h6> </b>
 
 
 ## Polifenoles
@@ -264,7 +260,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 | Quercetina                  |  4.32-9.05                     | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
 | Kaempferol                  |  0.11-0.38                     | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
 
-**Tabla 5. Polifenoles presentes en el nopal**
+<h6> <b> Tabla 5. Polifenoles presentes en el nopal </h6> </b>
 
 
 
@@ -287,7 +283,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
 
- **Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
+ <h6> <b> Tabla 6. Porcentaje de identidad entre genes del raton y el humano </h6> </b>
 
 
 
