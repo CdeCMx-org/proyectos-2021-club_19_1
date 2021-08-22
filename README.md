@@ -162,7 +162,6 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 **Tabla 1. Información nutrimental del nopal**
 
 <br>
-<br>
 
 
 ## Vitaminas
