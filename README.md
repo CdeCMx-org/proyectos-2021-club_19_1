@@ -191,6 +191,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 ## Aminoácidos
 
 Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg por cada 100g de nopal.
+<p align="center">
 
 |         Compuesto         | Contenido en 100 gr de nopal | Referencias El-Mostafa et al., 2014.  |    
 |:-------------------------:|:----------------------------:|:-------------------------------------:|
@@ -220,8 +221,8 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 | Glicina                   | Traza                        |                                       |  
 | Taurina                   | Traza                        |                                       |   
 | **Aminoácios escenciales. |                              |                                       |   
-
-**Tabla 4. Aminoácidos presentes en el nopal*
+</p>
+<p align="center"> <b> Tabla 4. Aminoácidos presentes en el nopal </b> </p>
 
 ## Polifenoles
 
