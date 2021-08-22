@@ -48,8 +48,8 @@
 
 # Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
-<p align="justify"> 2. Hambre cero </p>
-<p align="justify"> 12. Producción y consumo responsables. </p>
+### 2. Hambre cero
+### 12. Producción y consumo responsables
 
 ![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif)
 
