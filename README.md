@@ -1,4 +1,6 @@
- ✨💡📄 El Equipo 1 Club 19 presenta: 
+<body bgcolor="green">
+ 
+✨💡📄 El Equipo 1 Club 19 presenta: 
 ===================
 ## Utilización del nopal para combatir la malnutrición de niños y adolescentes en México
 #### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Magdaleno, Macías, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
@@ -394,3 +396,5 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 # Equipo de trabajo 
   
 ![Conócenos (2)](https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif)
+
+</body>
