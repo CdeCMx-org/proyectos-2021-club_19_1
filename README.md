@@ -283,7 +283,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Anexos 
 
-![Ensalada de nopal (1)](https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif)
+<p align="center"> <img srchttps://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="800" height="1300"> </img></p>
 
 ![beneficios_pages-to-jpg-0001](https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg)
 
@@ -325,11 +325,11 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="justify">18.	Chen, A. Y., & Chen, Y. C. (2013). A review of the dietary flavonoid, kaempferol on human health and cancer chemoprevention. Food Chemistry, 138(4), 2099–2107. doi:10.1016/j.foodchem.2012.11.13</p>
 
-<p align="justify">19.	Kuti, J. O. (2004). Antioxidant compounds from four Opuntia cactus pear fruit varieties. Food Chemistry, 85(4), 527–533. doi:10.1016/s0308-8146(03)00184-5</p>
+<p align="justify">19.	Kuti, J. O. (2004). Antioxidant compounds from four Opuntia cactus pear fruit varieties. Food Chemistry, 85(4), 527–533. doi:10.1016/s0308-8146(03)00184-5 </p>
 
-<p align="justify">20.	E. (2018, 11 octubre). 10 razones para comer nopales diario. El Universal. https://www.google.com.mx/amp/s/www.eluniversal.com.mx/menu/10-razones-para-comer-nopales-diario%3famp</p>
+<p align="justify">20.	E. (2018, 11 octubre). 10 razones para comer nopales diario. El Universal. https://www.google.com.mx/amp/s/www.eluniversal.com.mx/menu/10-razones-para-comer-nopales-diario%3famp </p>
 
-<p align="justify">21.	Marketing RG. (2021, 5 abril). 10 BENEFICIOS DEL MANGO. Reyes Gutiérrez. https://www.reyesgutierrez.com/10-beneficios-del-mango/</p>
+<p align="justify">21.	Marketing RG. (2021, 5 abril). 10 BENEFICIOS DEL MANGO. Reyes Gutiérrez. https://www.reyesgutierrez.com/10-beneficios-del-mango/ </p>
 
 <p align="justify">22.	Botanical Online SL. (2021, 20 julio). Valor nutricional. . . Botanical-online. https://www.botanical-online.com/alimentos/nopalitos-valor-nutricional</p>
 
