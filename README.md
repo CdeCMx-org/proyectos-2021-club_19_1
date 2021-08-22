@@ -392,6 +392,6 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </p>
 
 # Equipo de trabajo 
-  
+   
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif' width="650" height="500"> </p>
 
