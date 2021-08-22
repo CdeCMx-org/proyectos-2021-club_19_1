@@ -362,7 +362,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Agradecimientos 
   
-![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)
+<p align="center">![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)</p>
 
 *Centrar el GIFT*
 
