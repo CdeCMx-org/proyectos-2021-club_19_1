@@ -370,7 +370,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
  
 <p align="justify"> En este proyecto aprendí sobre productos de origen marino, frutos, verduras, nueces y legumbres, sus componentes funcionales, sus múltiples beneficios, así como algunos contaminantes que se podrían encontrar en alimentos; así como la energía que nos aportan, por todos estos conocimientos, quiero agradecer a los doctores que nos impartieron el curso, por sus esfuerzo y trabajo al preparar las presentaciones, las actividades y brindarnos toda la información necesario, de igual gracias por estar el pendiente de sus alumnos. </p>
 
-### José 
+### José:
 
 <p align="justify"> Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento</p>
 
