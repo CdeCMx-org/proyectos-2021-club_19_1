@@ -119,7 +119,7 @@ La causa de la desnutrición es clara, el 90% de los estados de desnutrición so
 <p align="justify">Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos.  </p>
 <p align="justify">A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013) </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="600" height="450"></img></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="600" height="400"></img></p>
 
 ## 3.	Componentes y beneficios del nopal
 
@@ -325,8 +325,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="justify">18.	Chen, A. Y., & Chen, Y. C. (2013). A review of the dietary flavonoid, kaempferol on human health and cancer chemoprevention. Food Chemistry, 138(4), 2099–2107. doi:10.1016/j.foodchem.2012.11.13</p>
 
-<p align="justify">19.	Kuti, J. O. (2004). Antioxidant compounds from four Opuntia cactus pear fruit varieties. Food Chemistry, 85(4), 527–533. doi:10.1016/s0308-8146(03)00184-5 </p> <br>
-<p align="justify">20.	E. (2018, 11 octubre). 10 razones para comer nopales diario. El Universal. https://www.google.com.mx/amp/s/www.eluniversal.com.mx/menu</br>/10-razones-para-comer -nopales-diario%3famp </p>
+<p align="justify">19.	Kuti, J. O. (2004). Antioxidant compounds from four Opuntia cactus pear fruit varieties. Food Chemistry, 85(4), 527–533. doi:10.1016/s0308-8146(03)00184-5 </p> <br><p align="justify">20.	E. (2018, 11 octubre). 10 razones para comer nopales diario. El Universal. https://www.google.com.mx/amp/s/www.eluniversal.com.mx/menu</br>/10-razones-para-comer -nopales-diario%3famp </p>
 
 <p align="justify">21.	Marketing RG. (2021, 5 abril). 10 BENEFICIOS DEL MANGO. Reyes Gutiérrez. https://www.reyesgutierrez.com/10-beneficios-del-mango/ </p>
 
