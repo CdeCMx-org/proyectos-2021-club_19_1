@@ -229,7 +229,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 
 |          Compuesto          | Contenido en 100 grs. de nopal |                        Efecto farmacológico                                   |        Referencias               | 
 |:---------------------------:|:------------------------------:|:-----------------------------------------------------------------------------:|:--------------------------------:|
-|   Ácidos fenólicos          |                                |                                                                               |                                  | 
+| <b> Ácidos fenólicos  </b>  |                                |                                                                               |                                  | 
 | Ácido gálico                | 0.64–2.37                      | Antioxidante, antiinflamatorio y antitumoral                                  | El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019                 |
 | Ácido cumarico              | 14.08–16.18                    | Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico. | El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016                       |
 | 3,4-dihidroxibenzoico       | 0.06–5.02                      | Antiinflamatorio y antihiperglucémico                                         | El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015.                 |   
