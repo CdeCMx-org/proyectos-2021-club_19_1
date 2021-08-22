@@ -32,6 +32,7 @@
 
 ##### *Key words: malnutrition; nopal; children; adolescents.
 
+
 # Introducción 
 
 <p align="justify"> La malnutrición es un problema paradójico que ha persistido en nuestro país desde hace muchos años, por un lado, hay un sector que sufre de hambre, predominantemente población indígena en los estados del sur, y por otro un sector que padece de sobrepeso y obesidad el cual sostiene dietas con pocos aportes calóricos y sí muchos contenidos altos en sodio, grasas saturadas, grasas trans, azúcares, edulcorantes, etc. La población mexicana es consciente del problema, pero hasta la actualidad en pleno 2021 se han visto resultados desalentadores para los objetivos de la agenda 2030. Es una problemática que requiere de atención política y social pero también demanda propuestas en el ámbito de salud. De acuerdo al Instituto Nacional de Salud Pública 35.6% de niños entre los 5 a 11 años padecen de sobrepeso en un 18.1% y de obesidad en un 17.5%, en cuanto a adolescentes se encontró que de un total de 38.4% entre las edades de 12 a 19 años un 23.8% padecen de sobrepeso y un 14.6% de obesidad. </p>
@@ -48,12 +49,17 @@
 
 <p align="justify"> En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto. </p>
 
+<br>
+
+
 # Objetivos de Desarrollo Sostenible 2030 en los que participamos 
 
 #### 2. Hambre cero
 #### 12. Producción y consumo responsables
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif" width="550" height="350"> </p>
+
+<br>
 
 # Objetivos 
 
@@ -65,6 +71,9 @@
 <p align="justify"> 2.	Estudiar el panorama general del sobrepeso, la obesidad y la desnutrición en México, especialmente por medio de datos estadísticos. </p>
 <p align="justify"> 3.	Informar sobre el proyecto que pretende reducir el porcentaje de desperdicio del nopal y la manera en que lo lleva a cabo, así como sugerir mejoras para aumentar su impacto nacional. </p>
 <p align="justify"> 4.	Motivar la compra de nopal mediante la sugerencia de posibles recetas con esta verdura, las cuales sean interesantes, variadas y accesibles. </p>
+
+<br>
+
 
 # Metodología 
 
@@ -79,6 +88,9 @@
 
 <p align="justify">Para contrarrestar estos resultados, pretendemos difundir la gran cantidad de beneficios del nopal al igual que su consumo tanto en zonas urbanas como rurales. A raíz de ello, proponemos que todos los desperdicios sean redirigidos a algún centro en donde puedan ser propiamente tratados y limpiados, y que más adelante servirán como alimento para quienes lo necesiten, especialmente a aquellos que presenten mayores dificultades económicas y no puedan acceder a una alimentación por los motivos anteriormente expuestos. Con lo anterior, se esperaría disminuir el porcentaje de malnutrición en la población mexicana. Además, mostramos distintas recetas que se podrían realizar con el nopal; de esta manera, los habitantes de las poblaciones urbanas incrementarían su venta y consumo, que a su vez nos ayudrá a disminuir los casos de malnutrición a nivel nacional. </p>
 
+<br>
+
+
 # Planteamiento del problema
 
 <p align="justify"> Se estima que en México 1 de cada 8 niños y niñas menores de 5 años presentan una talla baja moderada o severa para su edad. La falta de una dieta suficiente, variada y nutritiva está asociada con más de la mitad de las muertes de niños en todo el mundo. La desnutrición propicia a sufrir enfermedades como anemia, retraso en el crecimiento, dificultades respiratorias, déficit de aprendizaje, entre otras. De acuerdo a la UNICEF los niños y adolescentes del sur presentan una mayor tendencia a sufrir de desnutrición crónica, a diferencia de quienes residen en el norte. A su vez, al comparar zonas rurales con urbanas se obtiene un resultado similar. </p>
@@ -90,6 +102,9 @@
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg" width="550" height="350"> </p>
 
+<br>
+
+
 # Marco teórico 
 ##  1.	Obesidad
 ### 1.1 Definición, causas y consecuencias generales.
@@ -97,6 +112,7 @@
 <p align="justify"> La Organización Mundial de la Salud (OMS) define a la obesidad y el sobrepeso como “una acumulación anormal o excesiva de grasa que puede ser perjudicial para la salud”, es decir, es el incremento de peso corporal que aumenta fundamentalmente la masa grasa con una anormal distribución corporal.
 La obesidad puede ser de dos tipos endógena y exógena, la primera es la menos común y solo afecta entre el 5-10% de la población obesa, esta, es generada por problemas relacionados con la alteración o disfunción de alguna glándula endocrina, el síndrome de Cushing (glándulas suprarrenales), diabetes mellitus, el síndrome de ovario poliquístico o el hipogonadismo, entre otros, por lo tanto, este tipo es causada por cuestiones internas dado que las personas no pueden perder peso e incluso lo ganan, aun si tiene un estilo de vida saludable; por otra parte la obesidad exógena que presentan el 90-95% de los obesos, está relacionada con los malos hábitos alimenticios y la falta de actividad física de cada persona que está entrelazado con el entorno socioeconómico de cada individuo. </p>
 <p align="justify"> Es un grave problema a nivel mundial puesto que es un factor de riesgo en padecimientos como enfermedades cardiovasculares, diabetes, y cáncer que disminuyen la calidad de vida y también suponen un gasto enorme para el sistema sanitario. </p>
+
 
 ### 1.2 Panorama en México y en el mundo
 
@@ -112,6 +128,8 @@ Según la FAO, en la región de las Américas el 58 % de los habitantes vive con
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020) </p>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339364-7ce0a420-1169-4087-bf6c-d6461cae39fd.jpg" width="550" height="350"> </p>
+
+<br>
 
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
@@ -129,6 +147,8 @@ La causa de la desnutrición es clara, el 90% de los estados de desnutrición so
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="550" height="350"></p>
 
+<br>
+
 ## 3.	Componentes y beneficios del nopal
 
 <p align="justify"> El nopal es un alimento que forma parte de la cultura mexicana, tanto así que incluso está presente en la bandera nacional, y por si fuera poco fue un recurso básico en etapas precolombinas entre tribus nómadas y sedentarias. 
@@ -145,6 +165,8 @@ Veamos algunos de los beneficios del nopal. </p>
  4. Prevención del cáncer, la fibra y vitamina B3 que contiene ayuda a contrarrestar el colesterol, lo que ayuda a diluir la concentración de potenciales células        cancerígenas y de cierto modo a disminuirlas.
  5. Osteoporosis, gracias a investigaciones realizadas por la UNAM, UAQ y UVM se encontró que la harina de nopal ayuda a reducir la osteoporosis en mujeres, ya que se descubrió que entre más madura y grande sea la penca del nopal, más calcio contiene.
  6. Gastritis controlada, sus fibras vegetales neutralizan el ácido gástrico que el cuerpo produce y protegen la mucosa del estómago. </p>
+
+ <br>
 
 ## Información nutrimental del nopal
 
@@ -299,6 +321,9 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
 
+<br>
+
+
 # Conclusiones
 
 <p align="justify"> Al comenzar el proyecto nos dimos cuenta que sería muy difícil poner cambiar la alimentación de millones de niños y adolescentes en México, porque el problema va más allá de sólo la elaboración algún manual sobre el buen comer, se necesita llevar a cada mesa de México una dieta sana y balanceada. </p>
@@ -307,11 +332,17 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="justify"> Gracias a la investigación, se logró conocer cuál es la población más afectada por la desnutrición y la obesidad, a nivel mundial y en México, también, se identificaron los principales compuestos del nopal, conociendo de esta manera, sus múltiples beneficios, entre ellos, el ser auxiliar para combatir la desnutrición y la obesidad en México y en el mundo, aplicándolo y promocionándolo por medio de algunas recetas accesibles para todos.  </p>
 
+<br>
+
+
 # Anexos 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="650" height="900"></p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"></p>
+
+<br>
+
 
 # Referencias 
 
@@ -369,6 +400,8 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="justify">27.	Garcés G, L. K. (2018, 25 septiembre). Recetas con Nopal contra diabetes, sobrepeso y problemas de piel. Biomanantial. https://www.biomanantial.com/recetas-con-nopal-contra-diabetes-sobrepeso-y-problemas-de-piel/ </p>
 
+<br>
+
 
 # Video
 
@@ -376,6 +409,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339893-06280f11-57df-47be-a349-601587a0962f.gif"> </p>
 
 
+<br>
 
 # Agradecimientos 
 
@@ -400,6 +434,8 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 <p align="justify"> En esta experiencia brindada por Clubes de ciencia pude conocer a expertos en los temas que me interesan, así como conocer jóvenes igual de apasionados por la ciencia. Durante este periodo adquirí tanto conocimientos, así como muy buenas experiencias. Todo gracias al apoyo brindado por los asesores generales, así como los asesores del Club 19. ¡Muchas gracias! </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </p>
+
+<br>
 
 # Equipo de trabajo 
    
