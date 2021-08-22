@@ -228,7 +228,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
 |          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |        Referencias                 | 
-|:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|:-----------------------------------|
+|:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|:----------------------------------:|
 |   Ácidos fenólicos          |                              |                                                                               |                                    | 
 | Ácido gálico                | 0.64–2.37                    | Antioxidante, antiinflamatorio y antitumoral                                  | El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019                 |
 | Ácido cumarico              | 14.08–16.18                  | Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico. | El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016                       |
