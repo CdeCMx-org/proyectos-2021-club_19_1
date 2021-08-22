@@ -86,6 +86,8 @@
 
 <p align="justify">A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. </p>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130338604-c94f5ec4-5cf1-4f2d-8d31-862488cb23ef.jpg" width="600" height="400"></img></p>
+
 # Marco teórico 
 ##  1.	Obesidad
 ### 1.1 Definición, causas y consecuencias generales.
@@ -107,11 +109,15 @@ Según la FAO, en la región de las Américas el 58 % de los habitantes vive con
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020) </p>
 
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130338605-e5d1d541-6fc8-4758-9067-1d0b97d1634f.jpg" width="600" height="400"></img></p>
+ 
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
 
 <p align="justify">La palabra desnutrición hace referencia a la perdida anormal de peso en el organismo, sin importar el porcentaje perdido, sin embargo, se ha creado una clasificación de los diferentes grados de desnutrición, se considera una desnutrición de primer grado a todo pérdida de peso debajo del 25% del peso que el individuo debería tener acorde a su edad, llamamos desnutrición de segundo grado cuando la perdida de pero fluctúa entre el 25 y 40% y  se denomina de tercer grado cuando este porcentaje supera el 40%.
 La causa de la desnutrición es clara, el 90% de los estados de desnutrición son ocasionados por la subalimentación del sujeto, lo que se traduce en deficiencia sobre la cantidad y calidad de alimentos consumidos. La subalimentación es ocasionada por múltiples factores como alimentaciones pobres o miserables, falta de higiene y faltas de técnica en la alimentación del individuo que también influye en gran manera la pobreza y la ignorancia. El otro 10% de las causas que producen la desnutrición son por infecciones enterales o parenterales como defectos congénitos en los niños, nacimiento prematuro y los débiles congénitos. </p>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130338603-594cd799-957a-4fe1-b8be-65132d8c170b.jpg" width="600" height="400"></img></p>
  
 <p align="justify"> En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. </p>
  
@@ -289,8 +295,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Referencias 
 
-<body text="black"> 
-<p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales</p>
+ <p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. <p style="color: black;">https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales</p> </p>
 
 <p align="justify"> 2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879</p>
 
@@ -343,7 +348,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 <p align="justify">26.	C.O.N.A.B.I.O. (2015, 1 enero). Untitled Document. CONABIO. http://www.conabio.gob.mx/conocimiento/cactoblastis/cacto/importancia.htm </p>
 
 <p align="justify">27.	Garcés G, L. K. (2018, 25 septiembre). Recetas con Nopal contra diabetes, sobrepeso y problemas de piel. Biomanantial. https://www.biomanantial.com/recetas-con-nopal-contra-diabetes-sobrepeso-y-problemas-de-piel/ </p>
-</body>
+ </font>
 
 # Video
 
@@ -361,4 +366,4 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Equipo de trabajo 
 
-![Conócenos](https://user-images.githubusercontent.com/88996378/130337500-47327ff1-f8b6-4c52-af4a-0b90109f687b.gif)
+![Conócenos (1)](https://user-images.githubusercontent.com/88996378/130338595-0c1d26dd-af3e-4009-9458-1d8c24ba6c93.gif)
