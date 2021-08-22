@@ -290,11 +290,16 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 # Referencias 
 
 <p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales
+
 2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879
+
 3.	Aruwa, C. E., Amoo, S. O., & Kudanga, T. (2018). Opuntia (Cactaceae) plant compounds, biological activities and prospects – A comprehensive review. Food Research International, 112, 328–344. doi:10.1016/j.foodres.2018.06.047
+
 4.	Kahkeshani N, Farzaei F, Fotouhi M, Alavi SS, Bahramsoltani R, Naseri R, Momtaz S, Abbasabadi Z, Rahimi R, Farzaei MH, Bishayee A. Pharmacological effects of gallic acid in health and diseases: A mechanistic review. Iran J Basic Med Sci. 2019 Mar;22(3):225-237. doi: 10.22038/ijbms.2019.32806.7897. PMID: 31156781; PMCID: PMC6528712.
+
 5.	Pei K, Ou J, Huang J, Ou S. p-Coumaric acid and its conjugates: dietary sources, pharmacokinetic properties and biological activities. J Sci Food Agric. 2016 Jul;96(9):2952-62. doi: 10.1002/jsfa.7578. Epub 2016 Jan 25. PMID: 26692250.
-6.	Semaming, Y., Pannengpetch, P., Chattipakorn, S. C., & Chattipakorn, N. (2015). Pharmacological properties of protocatechuic Acid and its potential roles as complementary medicine. Evidence-based complementary and alternative medicine : eCAM, 2015, 593902. https://doi.org/10.1155/2015/593902
+
+ 6.	Semaming, Y., Pannengpetch, P., Chattipakorn, S. C., & Chattipakorn, N. (2015). Pharmacological properties of protocatechuic Acid and its potential roles as complementary medicine. Evidence-based complementary and alternative medicine : eCAM, 2015, 593902. https://doi.org/10.1155/2015/593902
 7.	Choulis, N. H. (2014). Miscellaneous drugs, materials, medical devices, and techniques. Side Effects of Drugs Annual, 899–924. doi:10.1016/b978-0-444-62635-6.00049-8 
 8.	Islam, M. S., Matsuki, N., Nagasaka, R., Ohara, K., Takamitsu Hosoya, Ozaki, H., … Hori, M. (2014). Rice Bran Antioxidants in Health and Wellness. Wheat and Rice in Disease Prevention and Health, 443–451. doi:10.1016/b978-0-12-401716-0.00034-9 
 9.	Jacques, R., & Dancer, R. (2020, 22 agosto). What Does Salicylic Acid Do For Your Skin, Exactly? — Expert Advice. Allure. https://www.allure.com/story/what-does-salicylic-acid-do
