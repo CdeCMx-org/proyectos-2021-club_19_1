@@ -180,6 +180,8 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 
 **Tabla 2. Vitaminas presentes en el nopal**
 
+<br>
+
 
 ## Minerales 
 
@@ -199,6 +201,8 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
 **Tabla 3. Minerales presentes en el nopal**
+
+<br>
 
 
 ## Aminoácidos
@@ -238,6 +242,8 @@ Aminoácidos escenciales**
 
 **Tabla 4. Aminoácidos presentes en el nopal**
 
+<br>
+
 
 ## Polifenoles
 
@@ -264,6 +270,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 
 **Tabla 5. Polifenoles presentes en el nopal**
 
+<br>
 
 
 # Resultados 
@@ -287,6 +294,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 **Tabla 6. Porcentaje de identidad entre genes del ratón y el humano** 
 
+<br>
 
 
 <p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
@@ -301,9 +309,9 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Anexos 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="650" height="900"> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="650" height="900"></p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"></p>
 
 # Referencias 
 
