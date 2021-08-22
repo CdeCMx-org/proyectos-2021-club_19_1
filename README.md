@@ -51,7 +51,7 @@
 <p align="justify"> 2. Hambre cero </p>
 <p align="justify"> 12. Producción y consumo responsables. </p>
 
-![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130338707-c1f716b9-c15c-4c1f-a82a-d855dfe4c223.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif" </p>
 
 # Objetivos 
 
@@ -354,9 +354,11 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 *Centrar*
 
 # Agradecimientos 
+  
+![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)
 
-<p align="center"> ![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif) </p>
+*Centrar el GIFT*
 
 # Equipo de trabajo 
-
+ 
 ![Conócenos](https://user-images.githubusercontent.com/88996378/130337500-47327ff1-f8b6-4c52-af4a-0b90109f687b.gif)
