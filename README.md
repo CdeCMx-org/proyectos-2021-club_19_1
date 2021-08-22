@@ -4,6 +4,9 @@
 #### Barrios-Macías, Maritza; Hernández-Sánchez, Jessica; Magdaleno, Macías, José; Olivera-Cortés, Perla; Farfán-Peña, Brenda;
 #### Agradecemos el apoyo y el aprendizaje brindado por los instructores Dr. Manuel Méndez García y Dr. Rigoberto Rosas Luis en esta edición de Clubes de Ciencia México.
 
+<br>
+
+
 # Contenido 
 - [Resumen](#resumen)
 - [Abstract](#abstract)
@@ -19,6 +22,9 @@
 - [Video](#video) 
 - [Agradecimientos](#agradecimientos) 
 - [Equipo de trabajo](#equipo-de-trabajo) 
+
+<br>
+
 
 # Resumen 
 
