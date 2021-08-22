@@ -149,6 +149,7 @@ Veamos algunos de los beneficios del nopal. </p>
 ## Información nutrimental del nopal
 
 A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical (2021):
+<p align="center">
 
 | Contenido en 100 gr de nopal |       | Referencia: Botanical, 2021  |   
 |:----------------------------:|:-----:|:----------------------------:|
@@ -158,8 +159,9 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 | Carbohidratos                | 1.28  |                              |   
 | Grasas                       | 0.12  |                              |   
 | Fibra                        | 2.3   |                              |
+</p>
 
-**Tabla 1. Información nutrimental del nopal**
+ **Tabla 1. Información nutrimental del nopal**
 
 
 ## Vitaminas
@@ -275,7 +277,6 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 <p align="justify"> De los cincos genes, se encontró que sólo cuatro eran homólogos (Tnf, Nox, Srebp-1 y Fas). Para cuantificar la similitud de los transcritos de los genes entre ambas especies, se realizó el alineamiento de las proteínas codificadas utilizando NCBI Blastp. </p>
 
 Los resultados obtenidos se reportan en la siguiente tabla: 
-<p align="center">
 
 |          Gen                                                  |           Proteína                                                 |  Especie                      |  Código                                  |   Porcentaje de indentidad           |
 |:-------------------------------------------------------------:|:----------------------------------:|:-----------------------------:|:-----------------------------:|:----------------------------------------:|
@@ -283,7 +284,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 | NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                             |   Mus musculus, Homo sapiens  |    NP_757340.1, NP_008983.2     |               84.04%                 |
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
-</p>
+
  **Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
 
 
