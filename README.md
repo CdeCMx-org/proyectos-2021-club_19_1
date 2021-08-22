@@ -220,8 +220,9 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 | Prolina                   | Traza                        |                                       |   
 | Glicina                   | Traza                        |                                       |  
 | Taurina                   | Traza                        |                                       |   
-| **Aminoácios escenciales.                                                                       
- <b> Tabla 4. Aminoácidos presentes en el nopal </b> 
+**Aminoácios escenciales.     
+
+<b> Tabla 4. Aminoácidos presentes en el nopal </b> 
 
 ## Polifenoles
 
