@@ -149,7 +149,8 @@ Veamos algunos de los beneficios del nopal. </p>
 ## Información nutrimental del nopal
 
 A continuación, se presentan los datos de los macronutrientes del nopal obtenidos de Botanical (2021):
-<p align="center">
+
+<center>
 
 | Contenido en 100 gr de nopal |       | Referencia: Botanical, 2021  |   
 |:----------------------------:|:-----:|:----------------------------:|
@@ -159,7 +160,9 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 | Carbohidratos                | 1.28  |                              |   
 | Grasas                       | 0.12  |                              |   
 | Fibra                        | 2.3   |                              |
-</p>
+
+ 
+ </center>
 
  **Tabla 1. Información nutrimental del nopal**
 
