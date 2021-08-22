@@ -354,11 +354,9 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Video
 
-![logo de youtube](https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif"
+<p align="center"><img src=https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif"> </img> </p>
 
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
-
-*Centrar*
 
 # Agradecimientos 
 
