@@ -360,4 +360,4 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Equipo de trabajo 
 
-![Conócenos](https://user-images.githubusercontent.com/88996378/130337500-47327ff1-f8b6-4c52-af4a-0b90109f687b.gif)
+![Conócenos (1)](https://user-images.githubusercontent.com/88996378/130338460-ea3a458b-25be-43a4-82c3-893905cbc594.gif)
