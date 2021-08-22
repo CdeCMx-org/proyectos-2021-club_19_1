@@ -354,7 +354,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Video
 
-![logo de youtube](https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif)
+![logo de youtube](https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif"
 
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
 
@@ -362,7 +362,7 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Agradecimientos 
   
-<p align="center">![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </img> </p>
 
 *Centrar el GIFT*
 
