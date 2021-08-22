@@ -161,6 +161,7 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 
 **Tabla 1. Información nutrimental del nopal**
 
+
 ## Vitaminas
 
 Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por cada 100g de nopal.
@@ -176,6 +177,7 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 | Vitamina K1 | 5.3                          | FOODB, s.f.              |   
 
 **Tabla 2. Vitaminas presentes en el nopal**
+
 
 ## Minerales 
 
@@ -195,6 +197,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
 **Tabla 3. Minerales presentes en el nopal**
+
 
 ## Aminoácidos
 
@@ -233,6 +236,7 @@ Aminoácidos escenciales**
 
 <b> Tabla 4. Aminoácidos presentes en el nopal </b> 
 
+
 ## Polifenoles
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
@@ -255,8 +259,9 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 | Rutina                      | 2.36–26.17                     | Anticancerígeno, neuroprotector y cardioprotector                             |  El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar  & Saluja, 2017.          |
 | Quercetina                  |  4.32-9.05                     | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
 | Kaempferol                  |  0.11-0.38                     | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
- 
 <b> Tabla 5. Polifenoles presentes en el nopal </b> 
+
+
 
 # Resultados 
 
@@ -276,8 +281,8 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 | NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                             |   Mus musculus, Homo sapiens  |    NP_757340.1, NP_008983.2     |               84.04%                 |
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
-
 **Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
+
 
 
 <p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
