@@ -88,7 +88,7 @@
 
 <p align="justify">A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg" width="600" height="500"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg" width="600" height="450"> </p>
 
 # Marco teórico 
 ##  1.	Obesidad
