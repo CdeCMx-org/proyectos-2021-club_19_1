@@ -367,23 +367,23 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Agradecimientos 
 
-### Perla: 
+<b> Perla: </b>
 
 <p align="justify"> Agradezco a Clubes de Ciencia Mx por la oportunidad que me dieron al ingresar en esta edición, conocí a varios estudiantes de otras partes del país que disfrutan de hacer ciencia y buscan aportar ideas nuevas, asimismo, las clases de zoom fueron muy amenas y didácticas. Este año me llevo muchos nuevos aprendizajes. ¡Gracias Clubes de Ciencia Mx por llevar este tipo de actividades a jóvenes de todo México! ❤✨ </p>
 
-### Jessica: 
+<b> Jessica: </b>
  
 <p align="justify"> En este proyecto aprendí sobre productos de origen marino, frutos, verduras, nueces y legumbres, sus componentes funcionales, sus múltiples beneficios, así como algunos contaminantes que se podrían encontrar en alimentos; así como la energía que nos aportan, por todos estos conocimientos, quiero agradecer a los doctores que nos impartieron el curso, por sus esfuerzo y trabajo al preparar las presentaciones, las actividades y brindarnos toda la información necesario, de igual gracias por estar el pendiente de sus alumnos. </p>
 
-### José:
+<b> José: </b>
 
 <p align="justify"> Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento.</p>
 
-### Maritza:
+<b> Maritza: </b>
 
 <p align="justify"> En este club de ciencias aprendí información muy interesante respecto a los nutrientes y propiedades de los alimentos de origen marino, así como de algunas frutas y verduras. Me pareció información muy necesaria en mi vida diaria, pues consumo alimentos todos los días, no obstante, no siempre obtengo los nutrientes necesarios para lograr una dieta sana y equilibrada. Estoy muy agradecida por haber tenido la posibilidad de aprender de mis maestros Rigoberto Rosas y Manuel Méndez, quienes se tomaron el tiempo de enseñarnos temas muy importantes. Además, agradezco haber podido convivir con mis compañeros del club, jóvenes de todo el país, que al igual que yo, se encuentran interesados en la ciencia. Finalmente, agradezco a Clubes de Ciencia MX por seguir organizando estos clubes a pesar de resultar más complicado y diferente en modalidad virtual. </p>
 
-### Brenda:
+<b> Brenda: </b>
 
 <p align="justify"> En esta experiencia brindada por Clubes de ciencia pude conocer a expertos en los temas que me interesan, así como conocer jóvenes igual de apasionados por la ciencia. Durante este periodo adquirí tanto conocimientos, así como muy buenas experiencias. Todo gracias al apoyo brindado por los asesores generales, así como los asesores del Club 19. ¡Muchas gracias! </p>
 
