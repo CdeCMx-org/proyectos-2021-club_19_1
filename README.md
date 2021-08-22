@@ -378,4 +378,4 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Equipo de trabajo 
   
-![Conócenos (2)](https://user-images.githubusercontent.com/88996378/130339653-af69bf21-c13e-4d21-8faa-fa7b4a6ac718.gif)
+![Conócenos (2)](https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif)
