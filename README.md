@@ -176,7 +176,7 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 | Vitamina B9 | 1.75                         | FOODB, s.f.              |   
 | Vitamina K1 | 5.3                          | FOODB, s.f.              |   
 
-<h6> <b> Tabla 2. Vitaminas presentes en el nopal </h6> </b>
+<h6> <b> Tabla 2. Vitaminas presentes en el nopal </b> </h6>
 
 
 ## Minerales 
