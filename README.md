@@ -186,7 +186,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Selenio   | 0.7                          | FOODB, s.f.              |   
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
-**Tabla 3. Minerales presentes en el nopal*
+**Tabla 3. Minerales presentes en el nopal**
 
 ## Aminoácidos
 
@@ -221,7 +221,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 | Glicina                   | Traza                        |                                       |  
 | Taurina                   | Traza                        |                                       |   
 
-**Aminoácidos escenciales.     
+**Aminoácidos escenciales**     
 
 <b> Tabla 4. Aminoácidos presentes en el nopal </b> 
 
@@ -262,14 +262,14 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 
 Los resultados obtenidos se reportan en la siguiente tabla: 
 
-|          Gen                                                  |           Proteína                                             |  Especie                      |  Código    |   Porcentaje de indentidad  
-|:-------------------------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------:|------------|
-| Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (Tnf)                                |   Mus musculus   Homo sapiens |    NP_038721.1   NP_000585.2        |               78.81%                | 
-| NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                         |   Mus musculus   Homo sapiens |    NP_757340.1   NP_008983.2        |               84.04%                |
-| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)|Proteína de unión al elemento regulador de esterol 1 (Srebp-1)  |   Mus musculus   Homo sapiens |    NP_035610.1   NP_001005291.1     |               75.30%                |
-| Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                        |   Mus musculus   Homo sapiens |    NP_032013.2    NP_000034.1        |               48.50%                |
+|          Gen                                                  |           Proteína                                                 |  Especie                      |  Código                                  |   Porcentaje de indentidad           |
+|:-------------------------------------------------------------:|:----------------------------------:|:-----------------------------:|:-----------------------------:|:------------------------------------:|
+| Factor de necrosis tumora (Tnf)                               | Factor de necrosis tumora (Tnf)                                    |   Mus musculus, Homo sapiens  |   NP_038721.1, NP_000585.2     |               78.81%                 | 
+| NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                             |   Mus musculus, Homo sapiens  |    NP_757340.1, NP_008983.2     |               84.04%                 |
+| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
+| Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
 
-**Tabla 5. Porcentaje de identidad entre genes del raton y el humano*
+**Tabla 5. Porcentaje de identidad entre genes del raton y el humano**
 
 
 <p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
