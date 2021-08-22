@@ -159,7 +159,7 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 | Grasas                       | 0.12  |                              |   
 | Fibra                        | 2.3   |                              |
 
- <h6> <b> Tabla 1. Información nutrimental del nopal </b> </h6>
+ <h6>Tabla 1. Información nutrimental del nopal </h6>
 
 
 ## Vitaminas
@@ -176,7 +176,7 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 | Vitamina B9 | 1.75                         | FOODB, s.f.              |   
 | Vitamina K1 | 5.3                          | FOODB, s.f.              |   
 
-<h6> <b> Tabla 2. Vitaminas presentes en el nopal </b> </h6>
+<h6>Tabla 2. Vitaminas presentes en el nopal </h6>
 
 
 ## Minerales 
@@ -196,7 +196,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Selenio   | 0.7                          | FOODB, s.f.              |   
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
-<h6> <b> Tabla 3. Minerales presentes en el nopal </h6> </b>
+<h6>Tabla 3. Minerales presentes en el nopal </h6>
 
 
 ## Aminoácidos
@@ -234,7 +234,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Aminoácidos escenciales**     
 
-<h6> <b> Tabla 4. Aminoácidos presentes en el nopal </h6> </b>
+<h6> Tabla 4. Aminoácidos presentes en el nopal </h6>
 
 
 ## Polifenoles
@@ -260,7 +260,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 | Quercetina                  |  4.32-9.05                     | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
 | Kaempferol                  |  0.11-0.38                     | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
 
-<h6> <b> Tabla 5. Polifenoles presentes en el nopal </h6> </b>
+<h6> Tabla 5. Polifenoles presentes en el nopal </h6> 
 
 
 
@@ -283,7 +283,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
 
- <h6> <b> Tabla 6. Porcentaje de identidad entre genes del raton y el humano </h6> </b>
+ <h6> Tabla 6. Porcentaje de identidad entre genes del raton y el humano </h6>
 
 
 
