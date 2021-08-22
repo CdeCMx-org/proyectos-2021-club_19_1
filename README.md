@@ -301,7 +301,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="650" height="900"></p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"></p>
 
 # Referencias 
 
