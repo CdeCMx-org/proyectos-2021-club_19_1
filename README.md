@@ -370,10 +370,14 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
  
 <p align="justify"> En este proyecto aprendí sobre productos de origen marino, frutos, verduras, nueces y legumbres, sus componentes funcionales, sus múltiples beneficios, así como algunos contaminantes que se podrían encontrar en alimentos; así como la energía que nos aportan, por todos estos conocimientos, quiero agradecer a los doctores que nos impartieron el curso, por sus esfuerzo y trabajo al preparar las presentaciones, las actividades y brindarnos toda la información necesario, de igual gracias por estar el pendiente de sus alumnos. </p>
 
-### José 
+### José:
 
-### Maritza 
+<p align="justify">Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento. </p>
+
+### Maritza:
+ 
 <p align="justify"> En este club de ciencias aprendí información muy interesante respecto a los nutrientes y propiedades de los alimentos de origen marino, así como de algunas frutas y verduras. Me pareció información muy necesaria en mi vida diaria, pues consumo alimentos todos los días, no obstante, no siempre obtengo los nutrientes necesarios para lograr una dieta sana y equilibrada. Estoy muy agradecida por haber tenido la posibilidad de aprender de mis maestros Rigoberto Rosas y Manuel Méndez, quienes se tomaron el tiempo de enseñarnos temas muy importantes. Además, agradezco haber podido convivir con mis compañeros del club, jóvenes de todo el país, que al igual que yo, se encuentran interesados en la ciencia. Finalmente, agradezco a Clubes de Ciencia MX por seguir organizando estos clubes a pesar de resultar más complicado y diferente en modalidad virtual. </p>
+
 ### Brenda 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </img> </p>
