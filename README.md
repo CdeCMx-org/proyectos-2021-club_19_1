@@ -40,9 +40,9 @@
 
 <p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="800" height="700"> </img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="750" height="650"> </img> </p>
 
-*Modificar el tamaño de la imágen para que no se vea tan grande* 
+
 
 <p align="justify"> En el Club 19 con la asesoría de Dr. Manuel Méndez García logramos aprender sobre principios básicos de nutrigenómica, bases de datos, técnicas de investigación en alimentos, entre otros; que nos permitieron realizar una investigación más amena y que sin duda nos ayudó a tener una idea más amplia sobre qué problemática buscábamos abordar en este proyecto. </p>
 
@@ -51,7 +51,7 @@
 <p align="justify"> 2. Hambre cero </p>
 <p align="justify"> 12. Producción y consumo responsables. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif" width="950" height="700"></img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif" width="900" height="650"></img> </p>
 
 # Objetivos 
 
@@ -119,7 +119,7 @@ La causa de la desnutrición es clara, el 90% de los estados de desnutrición so
 <p align="justify">Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos.  </p>
 <p align="justify">A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013) </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="650" height="600"> </img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="650" height="500"> </img> </p>
 
 ## 3.	Componentes y beneficios del nopal
 
@@ -289,7 +289,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Referencias 
 
-1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales
+<p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales
 2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879
 3.	Aruwa, C. E., Amoo, S. O., & Kudanga, T. (2018). Opuntia (Cactaceae) plant compounds, biological activities and prospects – A comprehensive review. Food Research International, 112, 328–344. doi:10.1016/j.foodres.2018.06.047
 4.	Kahkeshani N, Farzaei F, Fotouhi M, Alavi SS, Bahramsoltani R, Naseri R, Momtaz S, Abbasabadi Z, Rahimi R, Farzaei MH, Bishayee A. Pharmacological effects of gallic acid in health and diseases: A mechanistic review. Iran J Basic Med Sci. 2019 Mar;22(3):225-237. doi: 10.22038/ijbms.2019.32806.7897. PMID: 31156781; PMCID: PMC6528712.
@@ -316,7 +316,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 25.	Hermanos, S. (2021, 28 mayo). El nopal, un beneficio para personas con diabetes. Somos Hermanos. https://www.somoshermanos.mx/el-nopal-un-beneficio-para-personas-con-diabetes/
 26.	C.O.N.A.B.I.O. (2015, 1 enero). Untitled Document. CONABIO. http://www.conabio.gob.mx/conocimiento/cactoblastis/cacto/importancia.htm
 27.	Garcés G, L. K. (2018, 25 septiembre). Recetas con Nopal contra diabetes, sobrepeso y problemas de piel. Biomanantial. https://www.biomanantial.com/recetas-con-nopal-contra-diabetes-sobrepeso-y-problemas-de-piel/ 
-
+</p>
 # Video
 
 ![logo de youtube](https://user-images.githubusercontent.com/88996378/130279246-03394141-4c7b-4259-bdc7-4deb8cdefe58.gif)
