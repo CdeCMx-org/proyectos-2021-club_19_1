@@ -372,6 +372,8 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 ### José 
 
+<p align="justify"> Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento</p>
+
 ### Maritza 
 
 ### Brenda 
