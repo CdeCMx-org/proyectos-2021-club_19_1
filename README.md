@@ -305,7 +305,6 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Referencias 
 
-<body text="black"> 
 <p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales</p>
 
 <p align="justify"> 2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879</p>
@@ -364,7 +363,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 # Video
 
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339893-06280f11-57df-47be-a349-601587a0962f.gif"> </p>
+<img src="https://user-images.githubusercontent.com/88996378/130339893-06280f11-57df-47be-a349-601587a0962f.gif">
 
 
 
