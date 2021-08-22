@@ -51,7 +51,7 @@
 2. Hambre cero
 12. Producción y consumo responsables. 
 
-![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif"></img> </p>
 
 # Objetivos 
 
