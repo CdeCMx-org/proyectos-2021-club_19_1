@@ -365,7 +365,15 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 ### Perla: 
 
 <p align="justify"> Agradezco a Clubes de Ciencia Mx por la oportunidad que me dieron al ingresar en esta edición, conocí a varios estudiantes de otras partes del país que disfrutan de hacer ciencia y buscan aportar ideas nuevas, asimismo, las clases de zoom fueron muy amenas y didácticas. Este año me llevo muchos nuevos aprendizajes. ¡Gracias Clubes de Ciencia Mx por llevar este tipo de actividades a jóvenes de todo México! ❤✨ </p>
-  
+
+### Jessica 
+
+### José 
+
+### Maritza 
+
+### Brenda 
+
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </img> </p>
 
 # Equipo de trabajo 
