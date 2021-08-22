@@ -1,5 +1,3 @@
-<body bgcolor="green">
- 
 ✨💡📄 El Equipo 1 Club 19 presenta: 
 ===================
 ## Utilización del nopal para combatir la malnutrición de niños y adolescentes en México
@@ -365,9 +363,10 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Video
 
-![logo de youtube](https://user-images.githubusercontent.com/88996378/130339893-06280f11-57df-47be-a349-601587a0962f.gif)
-
 Este link te llevará a un video en el que podrás visualizar y conocer un poco mejor nuestro trabajo: 
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339893-06280f11-57df-47be-a349-601587a0962f.gif"> </p>
+
+
 
 # Agradecimientos 
 
@@ -397,4 +396,3 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
   
 ![Conócenos (2)](https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif)
 
-</body>
