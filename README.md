@@ -51,7 +51,7 @@
 <p align="justify"> 2. Hambre cero </p>
 <p align="justify"> 12. Producción y consumo responsables. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311168-950fbf33-1656-43db-b580-31398a40dc3e.gif" </p>
+![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif)
 
 # Objetivos 
 
@@ -86,6 +86,8 @@
 
 <p align="justify">A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. </p>
 
+![Obesidad-infantil-en-México-problema-vigente-en-2019-1](https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg)
+
 # Marco teórico 
 ##  1.	Obesidad
 ### 1.1 Definición, causas y consecuencias generales.
@@ -107,6 +109,8 @@ Según la FAO, en la región de las Américas el 58 % de los habitantes vive con
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020) </p>
 
+![R](https://user-images.githubusercontent.com/88996378/130339364-7ce0a420-1169-4087-bf6c-d6461cae39fd.jpg)
+
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
 
@@ -114,6 +118,8 @@ De acuerdo con los especialistas, el país se encuentra en una etapa intermedia 
 La causa de la desnutrición es clara, el 90% de los estados de desnutrición son ocasionados por la subalimentación del sujeto, lo que se traduce en deficiencia sobre la cantidad y calidad de alimentos consumidos. La subalimentación es ocasionada por múltiples factores como alimentaciones pobres o miserables, falta de higiene y faltas de técnica en la alimentación del individuo que también influye en gran manera la pobreza y la ignorancia. El otro 10% de las causas que producen la desnutrición son por infecciones enterales o parenterales como defectos congénitos en los niños, nacimiento prematuro y los débiles congénitos. </p>
  
 <p align="justify"> En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. </p>
+
+![niñosindigenas_pobres](https://user-images.githubusercontent.com/88996378/130339365-d43e756a-8d3b-4c43-bb46-123551a83bc4.jpg)
  
 ### 2.2 Panorama en México y en el mundo
 <p align="justify">Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos.  </p>
