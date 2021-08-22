@@ -159,7 +159,7 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 | Grasas                       | 0.12  |                              |   
 | Fibra                        | 2.3   |                              |
 
- <h8> <b> Tabla 1. Información nutrimental del nopal </b> </h8>
+ <h7> <b> Tabla 1. Información nutrimental del nopal </b> </h7>
 
 
 ## Vitaminas
