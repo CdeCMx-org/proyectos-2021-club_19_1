@@ -42,7 +42,7 @@
 
 <p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="500" height="450"> </img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="500" height="450"> </p>
 
 
 
@@ -53,7 +53,7 @@
 #### 2. Hambre cero
 #### 12. Producción y consumo responsables
 
-![Negro y Verde Gimnasio Reapertura Comercial Horizontal Volante](https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif" width="600" height="450"> </p>
 
 # Objetivos 
 
@@ -370,14 +370,10 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
  
 <p align="justify"> En este proyecto aprendí sobre productos de origen marino, frutos, verduras, nueces y legumbres, sus componentes funcionales, sus múltiples beneficios, así como algunos contaminantes que se podrían encontrar en alimentos; así como la energía que nos aportan, por todos estos conocimientos, quiero agradecer a los doctores que nos impartieron el curso, por sus esfuerzo y trabajo al preparar las presentaciones, las actividades y brindarnos toda la información necesario, de igual gracias por estar el pendiente de sus alumnos. </p>
 
-### José:
+### José 
 
-<p align="justify">Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento. </p>
-
-### Maritza:
- 
+### Maritza 
 <p align="justify"> En este club de ciencias aprendí información muy interesante respecto a los nutrientes y propiedades de los alimentos de origen marino, así como de algunas frutas y verduras. Me pareció información muy necesaria en mi vida diaria, pues consumo alimentos todos los días, no obstante, no siempre obtengo los nutrientes necesarios para lograr una dieta sana y equilibrada. Estoy muy agradecida por haber tenido la posibilidad de aprender de mis maestros Rigoberto Rosas y Manuel Méndez, quienes se tomaron el tiempo de enseñarnos temas muy importantes. Además, agradezco haber podido convivir con mis compañeros del club, jóvenes de todo el país, que al igual que yo, se encuentran interesados en la ciencia. Finalmente, agradezco a Clubes de Ciencia MX por seguir organizando estos clubes a pesar de resultar más complicado y diferente en modalidad virtual. </p>
-
 ### Brenda 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"> </img> </p>
