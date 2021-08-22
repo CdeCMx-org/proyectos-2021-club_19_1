@@ -289,7 +289,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Referencias 
 
-<p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales </p>
+<body text="black"> <p align="justify"> 1.	Conabio. (2021, 20 mayo). Nopales. Biodiversidad Mexicana. https://www.biodiversidad.gob.mx/diversidad/alimentos/nopales </p>
 
 <p align="justify"> 2.	El-Mostafa, K., El Kharrassi, Y., Badreddine, A., Andreoletti, P., Vamecq, J., El Kebbaj, M., … Cherkaoui-Malki, M. (2014). Nopal Cactus (Opuntia ficus-indica) as a Source of Bioactive Compounds for Nutrition, Health and Disease. Molecules, 19(9), 14879–14901. doi:10.3390/molecules190914879</p>
 
@@ -342,6 +342,7 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 <p align="justify">26.	C.O.N.A.B.I.O. (2015, 1 enero). Untitled Document. CONABIO. http://www.conabio.gob.mx/conocimiento/cactoblastis/cacto/importancia.htm </p>
 
 <p align="justify">27.	Garcés G, L. K. (2018, 25 septiembre). Recetas con Nopal contra diabetes, sobrepeso y problemas de piel. Biomanantial. https://www.biomanantial.com/recetas-con-nopal-contra-diabetes-sobrepeso-y-problemas-de-piel/ </p>
+ </body>
 
 # Video
 
