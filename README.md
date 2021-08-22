@@ -6,7 +6,6 @@
 
 <br>
 
-
 # Contenido 
 - [Resumen](#resumen)
 - [Abstract](#abstract)
