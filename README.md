@@ -42,7 +42,7 @@
 
 <p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="500" height="350"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="550" height="350"> </p>
 
 
 
@@ -53,7 +53,7 @@
 #### 2. Hambre cero
 #### 12. Producción y consumo responsables
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif" width="500" height="350"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339370-a4e6ee95-011e-4b17-a40d-c04f4a029899.gif" width="550" height="350"> </p>
 
 # Objetivos 
 
@@ -88,7 +88,7 @@
 
 <p align="justify">A través de este proyecto buscamos generar una propuesta para combatir la malnutrición en México. En cuanto a nuestras limitaciones somos conscientes que no lograremos resultados eficaces sólo por medio de la difusión de este superalimento, sino que también se necesitan de iniciativas políticas que permitan modificar el sistema alimentario para mejorar el acceso y el consumo de dietas saludables. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg" width="500" height="350"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339366-d28b3cbd-1dc6-4a06-ac77-e341eb4dfea6.jpg" width="550" height="350"> </p>
 
 # Marco teórico 
 ##  1.	Obesidad
@@ -111,7 +111,7 @@ Según la FAO, en la región de las Américas el 58 % de los habitantes vive con
 1 de cada 20 niñas y niños menores de 5 años y 1 de cada 3 entre los 6 y 19 años padece sobrepeso u obesidad. Esto coloca a México entre los primeros lugares en obesidad infantil a nivel mundial, problema que se presenta más a menudo en los estados del norte y en comunidades urbanas. Según datos del INEGI “En 2018, de la población de 5 a 11 años, 18% tiene sobrepeso y va en incremento conforme aumenta la edad; 21% de los hombres de 12 a 19 años y 27% de las mujeres de la misma edad, presentan sobrepeso.” (INEGI, 2020, p. 1)
 De acuerdo con los especialistas, el país se encuentra en una etapa intermedia de la denominada transición alimentaria, asumiendo que en etapas avanzadas la obesidad se presentará en los grupos más pobres (Rivera, et. al, 2015). Esto se justifica con información proporcionada por el ENSANUT 2018, en donde se afirma que en las zonas urbanas el sobrepeso en la población de 5 a 11 años representa 18%; mientras que en las rurales es de 17%. Para el grupo de 12 a 19 años, la prevalencia de sobrepeso también es más alta en localidades urbanas, la diferencia es de cuatro puntos porcentuales. Lo mismo sucede con la prevalencia de obesidad, las diferencias más amplias se ubican en la población de 5 a 11 años y en la de 20 años o más, con ocho y cinco puntos porcentuales, respectivamente. (INEGI, 2020) </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339364-7ce0a420-1169-4087-bf6c-d6461cae39fd.jpg" width="500" height="350"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339364-7ce0a420-1169-4087-bf6c-d6461cae39fd.jpg" width="550" height="350"> </p>
 
 ## 2.	Desnutrición
 ### 2.1 Definición, causas y consecuencias generales
@@ -121,13 +121,13 @@ La causa de la desnutrición es clara, el 90% de los estados de desnutrición so
  
 <p align="justify"> En lo que se refiere a las consecuencias de la desnutrición, durante la infancia se asocian con crecimiento retardado y el desarrollo psicomotor, mayor riesgo de morbilidad, disminución de la capacidad intelectual y físico, lo que repercute en la edad adulta del individuo en la capacidad para generar ingresos, y en ocasiones incrementa las posibilidades a enfermedades tales como la obesidad, diabetes, hipertensión, dislipidemias e incapacidades. </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/88996378/130339365-d43e756a-8d3b-4c43-bb46-123551a83bc4.jpg" width="500" height="400"> </p>
+<p align="center"><img src="https://user-images.githubusercontent.com/88996378/130339365-d43e756a-8d3b-4c43-bb46-123551a83bc4.jpg" width="550" height="400"> </p>
  
 ### 2.2 Panorama en México y en el mundo
 <p align="justify">Se muestran graficas de la desnutrición que se presenta en el mundo en diversas regiones; es una comparación entre el periodo de 1990-1992 y 2014-2016.Según un informe publicado por las Naciones Unidas, hay 10 millones menos de desnutridos.  </p>
 <p align="justify">A pesar de que en los últimos 20 años en México se ha observado una disminución en los diferentes tipos de desnutrición infantil, la prevalencia de baja talla continúa siendo un grave problema de salud pública en menores de cinco años de edad. Actualmente en México, 1.5 millones de niños de esta edad (13.6%) sufren de desnutrición crónica (baja talla para la edad) (GUTIÉRREZ et al., 2012). Ésta, evaluada por indicadores como bajo peso para la edad, se ubica en 2.8%; es decir, 280,000 niños la padecen, y evaluada por el indicador de peso para la talla, en 1.6%, lo cual indica que aproximadamente 174,000 niños la presentan (RIVERA et al., 2013) </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="500" height="350"></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130333568-29ef106c-8c2b-48f3-98e0-3499719ef3c3.png" width="550" height="350"></p>
 
 ## 3.	Componentes y beneficios del nopal
 
@@ -299,9 +299,9 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 
 # Anexos 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="800" height="1100"> </img></p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130311157-21a90cd6-6d71-4cae-af46-d16d1c77d17c.gif" width="650" height="900"> </img></p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="800" height="1000"> </img> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130334423-0807487b-1f0a-472a-98c5-544b2f1b25fb.jpg" width="650" height="850"> </img> </p>
 
 # Referencias 
 
@@ -393,5 +393,5 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 
 # Equipo de trabajo 
   
-![Conócenos (2)](https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130339695-10f38129-0004-4492-9457-76b2367c131e.gif' width="650" height="500"> </p>
 
