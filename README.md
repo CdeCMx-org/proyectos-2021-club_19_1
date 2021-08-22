@@ -42,7 +42,7 @@
 
 <p align="justify"> Por otra parte, se encuentran el sobrepeso y la obesidad, problemas que lejos de disminuir, continúan aumentando y afectando a miles de mexicanos cada año, es aquí en donde nos preguntamos: ¿Qué medidas podemos implementar que estén en concordancia con la agenda 2030 pero también permitan ser funcionales en pandemia?, si bien reconocemos que el problema es bastante complejo dado que incluye demasiadas variables, entre ellas sociales y políticas, confiamos en que nuestro proyecto funcionará si buscamos alianzas con grupos de ayuda en los que se pueda difundir la iniciativa. </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="650" height="450"> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130276747-b39e8f9a-54c3-42ec-a184-4db3d4200297.jpg" width="600" height="450"> </p>
 
 
 
@@ -160,7 +160,7 @@ A continuación, se presentan los datos de los macronutrientes del nopal obtenid
 | Fibra                        | 2.3   |                              |
 
 **Tabla 1. Información nutrimental del nopal**
-
+<br>
 
 ## Vitaminas
 
@@ -177,8 +177,7 @@ Se muestra tabla de las vitaminas en el nopal, así como su contenido en mg por 
 | Vitamina K1 | 5.3                          | FOODB, s.f.              |   
 
 **Tabla 2. Vitaminas presentes en el nopal**
-
-
+<br>
 ## Minerales 
 
 Se muestra tabla de los minerales en el nopal, así como su contenido en mg por cada 100g de nopal.
@@ -197,7 +196,7 @@ Se muestra tabla de los minerales en el nopal, así como su contenido en mg por 
 | Cobre     | 0.01750                      | FOODB, s.f.              |   
 
 **Tabla 3. Minerales presentes en el nopal**
-
+<br>
 
 ## Aminoácidos
 
@@ -235,7 +234,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 Aminoácidos escenciales**     
 
 <b> Tabla 4. Aminoácidos presentes en el nopal </b> 
-
+<br>
 
 ## Polifenoles
 
@@ -259,9 +258,9 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 | Rutina                      | 2.36–26.17                     | Anticancerígeno, neuroprotector y cardioprotector                             |  El-Mostafa et al., 2014; Aruwa et al., 2018; Ganeshpurkar  & Saluja, 2017.          |
 | Quercetina                  |  4.32-9.05                     | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
 | Kaempferol                  |  0.11-0.38                     | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
+
 <b> Tabla 5. Polifenoles presentes en el nopal </b> 
-
-
+<br>
 
 # Resultados 
 
@@ -281,10 +280,9 @@ Los resultados obtenidos se reportan en la siguiente tabla:
 | NADPH oxidasa 1 (Nox1)                                        | NADPH oxidasa 1 (Nox1)                                             |   Mus musculus, Homo sapiens  |    NP_757340.1, NP_008983.2     |               84.04%                 |
 | Proteína de unión al elemento regulador de esterol 1 (Srebp-1)| Proteína de unión al elemento regulador de esterol 1 (Srebp-1)     |   Mus musculus, Homo sapiens  |    NP_035610.1, NP_001005291.1  |               75.30%                 |
 | Receptor de muerte de la superficie celular Fas (Fas)         | Receptor del factor de necrosis tumoral                            |   Mus musculus,  Homo sapiens |    NP_032013.2, NP_000034.1     |               48.50%                 |
+
 **Tabla 6. Porcentaje de identidad entre genes del raton y el humano**
-
-
-
+<br>
 <p align="justify"> Las proteínas codificadas por los genes Tnf, Srebp-1 y Fas muestran un considerable grado de similitud entre ambas especies, por lo que hay altas posibilidades de que los compuestos del nopal también tengan efectos inhibitorios en la inflamación y estrés oxidativo en tejido adiposo, así como en la inhibición de la lipogénesis hepática; ambas condiciones características cuando se presenta obesidad. Sin embargo, es necesario realizar más estudios para obtener resultados concluyentes. </p>
 
 # Conclusiones
