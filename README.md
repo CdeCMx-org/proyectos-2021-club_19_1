@@ -227,18 +227,19 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg por cada 100g de nopal.
 
-|          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |        Referencias                 | 
-|:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|:----------------------------------:|
-|   Ácidos fenólicos          |                              |                                                                               |                                    | 
+|          Compuesto          | Contenido en 100 gr de nopal |                        Efecto farmacológico                                   |        Referencias                 |  
+|:---------------------------:|:----------------------------:|:-----------------------------------------------------------------------------:|:----- -----------------------------|
+|   Ácidos fenólicos          |                              |                                                                               |                                                                                       |
 | Ácido gálico                | 0.64–2.37                    | Antioxidante, antiinflamatorio y antitumoral                                  | El-Mostafa et al., 2014; Aruwa et al., 2018; Kahkeshani et al, 2019                 |
 | Ácido cumarico              | 14.08–16.18                  | Anticancerígeno, antimicrobiano, antiviral, antiinflamatorio y antiartrítico. | El-Mostafa et al., 2014; Aruwa et al., 2018; Pei et al., 2016                       |
-| 3,4-dihidroxibenzoico       | 0.06–5.02                    | Antiinflamatorio y antihiperglucémico                                         | El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015.                 |   
+| 3,4-dihidroxibenzoico       | 0.06–5.02                    | Antiinflamatorio y antihiperglucémic                                          | El-Mostafa et al., 2014; Aruwa et al., 2018; Semaming et al., 2015.                 |   
 | 4-hidroxibenzoico           | 0.5–4.72                     | Antimicrobiano                                                                | El-Mostafa et al., 2014; Aruwa et al., 2018; Choulis, 2014.                         |
 | Ácido ferúlico              | 0.56–34.7                    | Protege la piel de los rayos UV.                                              | El-Mostafa et al., 2014; Aruwa et al., 2018; Islam et al., 2014                     |
 | Ácido salicílico            | 0.58–3.54                    | Antiinflamatorio y exfolia la piel                                            |  El-Mostafa et al., 2014; Aruwa et al., 2018; Jacques & Dancer, 2020                 |
 | Ácido siríngico             | 0.77-2.43                    | Previene la diabetes, cáncer y enfermedades cardiovasculares                  | Aruwa et al., 2018; Srinivasulu et al., 2018 ;López-Palacios & Peña-Valdivia, 2020.  |
 | Ácido protocatechico        | 0.71-1.26                    | Previene la diabetes, cáncer ulceras y esclerosis.                            | Aruwa et al., 2018; Kakkar & Bais, 2014 ; Kolniak-Ostek et al., 2020.                |
-|   Flavonoides               |                              |                                                                               |                                  |
+|   Flavonoides               |                              |                                                                               | 
+                                                  |
 | Isoquercetina               | 2.29–39.67                   | Neuroprotector y cardioprotector.                                             | El-Mostafa et al., 2014; Aruwa et al., 2018; Appleton , 2010.                       | 
 | Isorhamnetina-3-O-glucósido | 4.59–32.21                   | Anticancerigeno,, atitumoral y cardioprotector                                | El-Mostafa et al., 2014; Aruwa et al., 2018                                         |
 | Nicotiflorina               | 2.89–146.5                   | Antinflamatorio, neuroprotector, antibacterial, antiviral y analgésico        |  El-Mostafa et al., 2014; Aruwa et al., 2018; Yu et al., 2021.                       |
@@ -353,11 +354,12 @@ Este link te llevará a un video en el que podrás visualizar y conocer un poco 
 *Centrar*
 
 # Agradecimientos 
-  
-![giphy](https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif)
 
-*Centrar el GIFT*
+<p align="justify"> Me gusto mucho el poder ser parte de esta edición de clubes de ciencia, quiero agradecer a los instructores por todo el asesoramiento. Espero seguir formando parte en las siguientes ediciones y seguir adquiriendo conocimiento</p>
+                    .-Jose Macías
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/88996378/130278138-4d2879d5-a258-46aa-a809-e4aa4e84cee9.gif"></img></p>
 
 # Equipo de trabajo 
-  
+ 
 ![Conócenos](https://user-images.githubusercontent.com/88996378/130337500-47327ff1-f8b6-4c52-af4a-0b90109f687b.gif)
