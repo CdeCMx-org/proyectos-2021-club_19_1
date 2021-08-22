@@ -234,7 +234,7 @@ Se muestra tabla de los aminoácidos en el nopal, así como su contenido en mg p
 
 Aminoácidos escenciales**     
 
-<b> Tabla 4. Aminoácidos presentes en el nopal </b> 
+**Tabla 4. Aminoácidos presentes en el nopal**
 
 
 ## Polifenoles
@@ -260,7 +260,7 @@ Se muestra tabla de los polifenoles en el nopal, así como su contenido en mg po
 | Quercetina                  |  4.32-9.05                     | Controla azúcar en la sangre, cardioprotector                                 | Aruwa et al., 2018; Sissons, 2019; Kuti, 2004.                                       |
 | Kaempferol                  |  0.11-0.38                     | Anticancerígeno.                                                              | Aruwa et al., 2018; Chen & Chen, 2013;Kuti, 2004.                                  |
 
-<b> Tabla 5. Polifenoles presentes en el nopal </b> 
+**Tabla 5. Polifenoles presentes en el nopal**
 
 
 
